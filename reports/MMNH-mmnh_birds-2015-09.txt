@@ -1,0 +1,175 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 691
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 55
+	Country: Russia ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Papua New Guinea ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Philippines ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-13 ; Times: 2
+	Date: 2015-09-30 ; Times: 5
+	Date: 2015-09-28 ; Times: 4
+	Date: 2015-09-12 ; Times: 4
+	Date: 2015-09-10 ; Times: 6
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 5
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 5
+	Date: 2015-09-02 ; Times: 7
+	Date: 2015-09-01 ; Times: 9
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-29 ; Times: 4
+	Date: 2015-09-08 ; Times: 4
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-20 ; Times: 11
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:mmnh" ; Times: 2
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "Fregata minor skel*" ; Times: 1
+	Query: "Pinguinus impennis type:specimen" ; Times: 2
+	Query: "gbifdatasetid:85484744-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Butastur indicus" ; Times: 3
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga AND (NOT Alaska NOT michigan NOT wisconsin) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 2
+	Query: "zonotrichia querula year &gt;= 1958 year &lt;= 1958" ; Times: 1
+	Query: "drovetski regulus" ; Times: 3
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "Stercorarius pomarinus skel*" ; Times: 1
+	Query: "distance(location,geopoint(23.6802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "Minnesota Bell Museum of Natural History" ; Times: 1
+	Query: "chaetocercus bombus" ; Times: 1
+	Query: "Agelaius phoeniceus type:specimen country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.6802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "institutioncode:MMNH" ; Times: 1
+	Query: "Chlidonias (skel OR skeleton)" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 8
+	Query: "geranium" ; Times: 2
+	Query: "R.30826" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;United States&#34; AND (NOT Alaska NOT michigan NOT wisconsin NOT illinois NOT missouri NOT york) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "U. fulviceps" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 1
+	Query: "distance(location,geopoint(23.5802369569,-109.349505705))&lt;15000" ; Times: 1
+	Query: "phelpsia inornata" ; Times: 4
+	Query: "melospiza melodia institutioncode:MMNH tissue:1" ; Times: 1
+	Query: "cairina scutulata skeleton" ; Times: 1
+	Query: "Epimachus fastuosus" ; Times: 4
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "distance(location,geopoint(23.5802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 2
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "zonotrichia querula stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "meiglyptes tukki" ; Times: 1
+	Query: "Puffinus pacificus skel*" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "Platalea (skel OR skeleton)" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "Podiceps grisegena skel*" ; Times: 1
+	Query: "specificepithet:lapponicus genus:calcarius year &gt;= 1926 year &lt;= 1926" ; Times: 1
+	Query: "type:specimen genus:Plectrophenax tissue:1" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;United States&#34; AND (NOT Alaska NOT michigan NOT wisconsin NOT illinois NOT missouri) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga AND (NOT UAM) month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Aptenodytes (skel OR skeleton)" ; Times: 1
+	Query: "stateprovince:&#34;North Carolina&#34; country:&#34;united states&#34; specificepithet:aestivalis genus:aimophila" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1045 download events in this period)
+Total number of records downloaded: 9043
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 23
+	Country: Colombia ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-01 ; Times: 6
+	Date: 2015-09-19 ; Times: 4
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-14 ; Times: 2
+	Date: 2015-09-02 ; Times: 5
+	Date: 2015-09-16 ; Times: 5
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-24 ; Times: 4
+	Date: 2015-09-22 ; Times: 6
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "chaetocercus bombus" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "genus:Picoides" ; Times: 2
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Cairina moschata" ; Times: 1
+	Query: "geranium" ; Times: 1
+	Query: "Colinus cristatus type:specimen" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Sporophila" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "genus:cyanocitta year &gt;= 2010 year &lt;= 2014 month &gt;= 6 month &lt;= 11" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "Fred Parker" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Spizella breweri" ; Times: 1
+	Query: "phelpsia inornata" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+
+
+End of report.

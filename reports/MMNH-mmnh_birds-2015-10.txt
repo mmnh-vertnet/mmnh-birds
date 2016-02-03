@@ -1,0 +1,182 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 322
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 40
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-15 ; Times: 4
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-11 ; Times: 2
+	Date: 2015-10-18 ; Times: 6
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-28 ; Times: 8
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-24 ; Times: 4
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-04 ; Times: 4
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 4
+	Date: 2015-10-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Phylloscopus collybita institutioncode:MMNH" ; Times: 1
+	Query: "parmelee coccothraustes" ; Times: 1
+	Query: "falco minnesota egg" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "xiphidiopicus percussus" ; Times: 2
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "athene cunicularia country:&#34;mexico&#34;" ; Times: 2
+	Query: "Francolinus pintadeanus" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "tuxpan veracruz" ; Times: 1
+	Query: "paradisaea apoda" ; Times: 2
+	Query: "Synthliboramphus hypoleucus California" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "peregrine minnesota" ; Times: 1
+	Query: "&#34;callipepla squamata squamata&#34;" ; Times: 1
+	Query: "Eupherusa poliocerca" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "pachycephala caledonica" ; Times: 1
+	Query: "sturnella magna type:specimen tissue:1" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "&#34;lagopus mutus&#34; tissue:1" ; Times: 1
+	Query: "Zosterops palpebrosus" ; Times: 1
+	Query: "Poecile (skel OR skeleton) sex:female" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "pedionomus (skel OR skeleton) sex:female" ; Times: 1
+	Query: "Phalaropus minnesota" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "Schiffornis (skel OR skeleton)" ; Times: 1
+	Query: "molothrus bonariensis eggs" ; Times: 1
+	Query: "rallus limicola eggs" ; Times: 1
+	Query: "specificepithet:haematotis genus:Pyrilia" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "type:specimen specificepithet:cornutus genus:Eunymphicus" ; Times: 1
+	Query: "struthio camelus (skel OR skeleton)" ; Times: 1
+	Query: "melanoperdix" ; Times: 1
+	Query: "genus:regulus institutioncode:MMNH tissue:1" ; Times: 1
+	Query: "falco minnesota" ; Times: 2
+	Query: "empidonax trailli" ; Times: 1
+	Query: "specificepithet:regulus genus:Regulus tissue:1" ; Times: 1
+	Query: "emberiza pallasi" ; Times: 1
+	Query: "type:specimen specificepithet:erythrorhyncha genus:Anas tissue:1" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "belice" ; Times: 1
+	Query: "Anas erythrorhyncha" ; Times: 1
+	Query: "specificepithet:regulus genus:regulus institutioncode:MMNH tissue:1" ; Times: 1
+	Query: "&#34;lagopus lagopus&#34; tissue:1" ; Times: 1
+	Query: "parmalee" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 823 download events in this period)
+Total number of records downloaded: 2251
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 22
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-14 ; Times: 4
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-30 ; Times: 4
+	Date: 2015-10-29 ; Times: 3
+	Date: 2015-10-28 ; Times: 7
+	Date: 2015-10-27 ; Times: 5
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Junco tissue:1" ; Times: 1
+	Query: "(ciccaba)" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;Oregon&#34; year &gt;= 1980" ; Times: 1
+	Query: "mouse texas" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "Coccothraustes abeillei" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;Washington&#34; year &gt;= 1960" ; Times: 1
+	Query: "type:specimen specificepithet:platyrhynchos genus:Anas collectioncode:UMMZ OR MVZ OR UWBM OR PSM OR CAS OR FMNH" ; Times: 1
+	Query: "Lepidocolaptes leucogaster" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "Dendrortyx macroura" ; Times: 1
+	Query: "Sitta oenochlamys" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Eupherusa poliocerca" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "kangaroo" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Campylorhynchus gularis" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "athene cunicularia country:&#34;mexico&#34;" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Melanotis caerulescens" ; Times: 2
+	Query: "specificepithet:regulus genus:Regulus tissue:1" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "cardinalis cardinalis type:specimen tissue:1" ; Times: 1
+	Query: "sora" ; Times: 1
+
+
+End of report.

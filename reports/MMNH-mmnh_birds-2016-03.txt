@@ -1,0 +1,103 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 406
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-06 ; Times: 3
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-12 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 7
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Doricha eliza" ; Times: 1
+	Query: "cuculus canorus india" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 1
+	Query: "affinis minnesota" ; Times: 1
+	Query: "catharus fuscescens month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "U vert" ; Times: 1
+	Query: "perdix minnesota" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "genus:Cnipodectes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "melanerpes aurifrons type:specimen institutioncode:MMNH" ; Times: 1
+	Query: "Ammodramus henslowii (virginia)" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "catharus minimus month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "type:specimen institutioncode:MMNH" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "beaver type:specimen AND (bird) institutioncode:MMNH" ; Times: 1
+	Query: "Capito aurovirens brazil" ; Times: 1
+	Query: "diglossa baritula" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "clark salyer" ; Times: 1
+	Query: "class:aves catalognumber:11346" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 230 download events in this period)
+Total number of records downloaded: 205074
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 46
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-10 ; Times: 9
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Doricha eliza" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "type:specimen class:Aves country:&#34;Russia&#34; year &gt;= 1999 year &lt;= 2005" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:paradisaea genus:sterna year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+
+
+End of report.

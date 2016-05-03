@@ -1,0 +1,204 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 185
+Number of records retrieved in searches: 2642
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 61
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 14
+	Country: United States ; Times: 98
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 6
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 6
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-05 ; Times: 9
+	Date: 2016-04-04 ; Times: 9
+	Date: 2016-04-09 ; Times: 4
+	Date: 2016-04-22 ; Times: 5
+	Date: 2016-04-25 ; Times: 7
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-26 ; Times: 7
+	Date: 2016-04-08 ; Times: 13
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 8
+	Date: 2016-04-16 ; Times: 9
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-10 ; Times: 5
+	Date: 2016-04-11 ; Times: 9
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 42
+	Date: 2016-04-03 ; Times: 11
+	Date: 2016-04-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "MMNH 18674" ; Times: 1
+	Query: "institutioncode:mmnh" ; Times: 1
+	Query: "Archangel" ; Times: 1
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "Mimus polyglottos type:specimen year &gt;= 1950 year &lt;= 2011 institutioncode:MMNH" ; Times: 1
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "gbifdatasetid:85484744-f762-11e1-a439-00145eb45e9a" ; Times: 5
+	Query: "1900 Jackson" ; Times: 1
+	Query: "class:aves catalognumber:26819" ; Times: 1
+	Query: "(cygnus) institutioncode:MMNH" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-109.617516))&lt;15000" ; Times: 2
+	Query: "Icteria virens Ontario" ; Times: 10
+	Query: "38774" ; Times: 1
+	Query: "Pterodroma hypoleuca tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-109.617516))&lt;15000" ; Times: 1
+	Query: "pelecanus onocrotalus" ; Times: 3
+	Query: "24268" ; Times: 2
+	Query: "24556" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "Melanerpes carolinus type:specimen year &gt;= 1950 year &lt;= 2011 month &gt;= 4 month &lt;= 5 institutioncode:MMNH" ; Times: 1
+	Query: "(bittern) institutioncode:MMNH" ; Times: 2
+	Query: "class:aves catalognumber:22127" ; Times: 1
+	Query: "Dendrortyx barbatus" ; Times: 2
+	Query: "chrysoptera minnesota" ; Times: 16
+	Query: "26214" ; Times: 1
+	Query: "Calidris canutus Ontario" ; Times: 10
+	Query: "Chlorostilbon notatus" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "Contopus virens Ontario" ; Times: 10
+	Query: "hertzel" ; Times: 1
+	Query: "ectopistes migratorius institutioncode:MMNH" ; Times: 1
+	Query: "pterodroma hypoleuca tissue:1" ; Times: 2
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-109.957516))&lt;15000" ; Times: 1
+	Query: "Thryothorus ludovicianus type:specimen year &gt;= 1950 year &lt;= 2011 month &gt;= 6 month &lt;= 7 institutioncode:MMNH" ; Times: 1
+	Query: "pyrrhura molinae" ; Times: 2
+	Query: "Crax rubra" ; Times: 3
+	Query: "Puffinus Pacificus tissue:1" ; Times: 1
+	Query: "Charadrius melodus Ontario" ; Times: 10
+	Query: "Mimus polyglottos type:specimen year &gt;= 1950 year &lt;= 2011 month &gt;= 6 month &lt;= 7 institutioncode:MMNH" ; Times: 1
+	Query: "institutioncode:MMNH" ; Times: 2
+	Query: "sitta canadensis Mexico" ; Times: 1
+	Query: "bluebirds" ; Times: 1
+	Query: "recordedby:Dickerman year &gt;= 1957 year &lt;= 1957" ; Times: 5
+	Query: "Coccothraustes minnesota" ; Times: 2
+	Query: "catalognumber:44700 institutioncode:MMNH" ; Times: 1
+	Query: "Rissa tridactyla tissue:1" ; Times: 2
+	Query: "distance(location,geopoint(24.499036,-110.977516))&lt;15000" ; Times: 1
+	Query: "specificepithet:major genus:Parus tissue:1" ; Times: 1
+	Query: "Melanerpes carolinus type:specimen year &gt;= 1950 year &lt;= 2011 month &gt;= 6 month &lt;= 7 institutioncode:MMNH" ; Times: 1
+	Query: "class:aves catalognumber:41515" ; Times: 1
+	Query: "chrysoptera minnesota nest" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Melanerpes carolinus type:specimen year &gt;= 1950 year &lt;= 2011 institutioncode:MMNH" ; Times: 2
+	Query: "specificepithet:tigrina genus:Dendroica year &gt;= 1985 year &lt;= 2016 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "Mimus polyglottos type:specimen year &gt;= 1950 year &lt;= 2011 month &gt;= 4 month &lt;= 5 institutioncode:MMNH" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "Puffinus pacificus tissue:1" ; Times: 1
+	Query: "catalognumber:38560 institutioncode:MMNH" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "ARchangel" ; Times: 1
+	Query: "Melanerpes carolinus type:specimen year &gt;= 1950 year &lt;= 2011 institutioncode:MMNH mappable:1" ; Times: 2
+	Query: "38758" ; Times: 1
+	Query: "Jacques institutioncode:MMNH" ; Times: 2
+	Query: "Phoenicopterus ruber type:specimen (United States OR Cuba OR Bahamas OR Mexico) AND (NOT roseus)" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 2
+	Query: "Penelope purpurascens" ; Times: 3
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "Tyrannus verticalis Ontario" ; Times: 10
+	Query: "Minatitlan -Colima" ; Times: 3
+	Query: "strix virgata" ; Times: 2
+	Query: "Aves year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "Thryothorus ludovicianus type:specimen year &gt;= 1950 year &lt;= 2011 institutioncode:MMNH" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-109.447516))&lt;15000" ; Times: 1
+	Query: "specificepithet:virens genus:Dendroica year &gt;= 1985 year &lt;= 2016 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Bonasa umbellus type:specimen tissue:1" ; Times: 1
+	Query: "Dendroica cerulea Ontario" ; Times: 10
+	Query: "recordedby:Mock" ; Times: 1
+	Query: "catalognumber:44206 institutioncode:MMNH" ; Times: 1
+	Query: "puffinus pacificus tissue:1" ; Times: 2
+	Query: "Estancia San Jose" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1312 download events in this period)
+Total number of records downloaded: 877
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 24
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-27 ; Times: 3
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-23 ; Times: 3
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 1
+	Query: "Pterodroma hypoleuca tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:thalassina genus:Tachycineta mappable:1" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "Puffinus Pacificus tissue:1" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "glaucomys" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "Aves year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica tissue:1" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "Doricha eliza" ; Times: 2
+	Query: "Minnesota Point" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "stolzmanni" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "Bonasa umbellus type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "toucan" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.

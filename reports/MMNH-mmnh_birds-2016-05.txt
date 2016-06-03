@@ -1,0 +1,105 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 226
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 23
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-18 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-10 ; Times: 4
+	Date: 2016-05-26 ; Times: 10
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "hiemalis minnesota" ; Times: 2
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "gbifdatasetid:85484744-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "Ocreatus" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 2
+	Query: "Pterodroma hypoleuca tissue:1" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "Coccyzus erythropthalmus tissue:1" ; Times: 1
+	Query: "myioborus ornatus" ; Times: 1
+	Query: "francolinus pintadeanus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "francolinus pintadeanus year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "galbula tombacea" ; Times: 1
+	Query: "Dendrocygna minnesota" ; Times: 2
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Falco AND San Miguel" ; Times: 1
+	Query: "Brainard Lake" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Pachyramphus castaneus amazonus" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene tissue:1" ; Times: 1
+	Query: "aves Polioptila nigriceps 46186" ; Times: 1
+	Query: "numenius borealis" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 327 download events in this period)
+Total number of records downloaded: 1341
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 1
+	Country: China ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Malacopteron" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Timaliidae" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+
+
+End of report.

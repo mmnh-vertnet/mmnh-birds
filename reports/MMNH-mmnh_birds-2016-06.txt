@@ -1,0 +1,191 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 404
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 16
+	Country: Denmark ; Times: 4
+	Country: Singapore ; Times: 12
+	Country: France ; Times: 1
+	Country: United States ; Times: 65
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 6
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-08 ; Times: 8
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-05 ; Times: 6
+	Date: 2016-06-04 ; Times: 9
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-03 ; Times: 2
+	Date: 2016-06-02 ; Times: 14
+	Date: 2016-06-09 ; Times: 4
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-17 ; Times: 5
+	Date: 2016-06-14 ; Times: 15
+	Date: 2016-06-15 ; Times: 10
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 7
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Numenius tissue:1" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "49990" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "class:aves county:&#34;Roseau&#34; stateprovince:&#34;Minnesota&#34; year &gt;= 1938 year &lt;= 1942" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "Icterus auratus" ; Times: 2
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "Campylorhynchus yucatanicus" ; Times: 1
+	Query: "lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "querula purpurata" ; Times: 6
+	Query: "26378" ; Times: 1
+	Query: "Mimus graysoni" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "Francolinus pintadeanus" ; Times: 2
+	Query: "sitta canadensis mexico baja california" ; Times: 1
+	Query: "11139" ; Times: 3
+	Query: "Melanotis hypoleucus" ; Times: 1
+	Query: "numenius tissue:1" ; Times: 6
+	Query: "sitta canadensis mexico" ; Times: 2
+	Query: "toxostoma lecontei arenicola" ; Times: 3
+	Query: "setophaga magnolia month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Cinclocerthia ruficauda" ; Times: 1
+	Query: "Toxostoma ocellatum" ; Times: 1
+	Query: "Pachycephala cinerea winchelli" ; Times: 1
+	Query: "setophaga ruticilla type:specimen tissue:1" ; Times: 2
+	Query: "Cecropia" ; Times: 1
+	Query: "gbifdatasetid:85484744-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "Toxostoma cinereum" ; Times: 1
+	Query: "Numenius phaeopus phaeopus tissue:1" ; Times: 2
+	Query: "35018" ; Times: 1
+	Query: "50388" ; Times: 1
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "Oceanodroma microsoma AND Island" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 2
+	Query: "14352" ; Times: 1
+	Query: "ortalis vetula type:specimen year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "dendroica magnolia month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Numenius phaeopus tissue:1" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "Psaltriparus minimus AND Santa Catalina" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "Gallirallus torquatus tissue:1" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "11899" ; Times: 1
+	Query: "Numenius arquata tissue:1" ; Times: 1
+	Query: "Melanoptila glabrirostris" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "class:aves county:&#34;Roseau&#34; stateprovince:&#34;Minnesota&#34; year &gt;= 1939 year &lt;= 1939" ; Times: 1
+	Query: "Toxostoma guttatum" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "egg iowa 1891" ; Times: 1
+	Query: "Pachycephala cinerea plateni" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Dendroica magnolia month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Stephens AND Catalina" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "crax rubra" ; Times: 1
+	Query: "recordedby:Labedz" ; Times: 1
+	Query: "dendroica magnolia month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "cairina tissue:1" ; Times: 1
+	Query: "Asio clamator" ; Times: 2
+	Query: "Estrilda melpoda 1" ; Times: 3
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "Cistothorus palustris Puebla" ; Times: 1
+	Query: "Catalina Island AND 1893" ; Times: 1
+	Query: "Auriparus flaviceps stateprovince:&#34;Baja California&#34; mappable:1" ; Times: 1
+	Query: "Catalina Island AND 1897" ; Times: 1
+	Query: "Numenius americanus tissue:1" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "Rallus limicola AND Island" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1052 download events in this period)
+Total number of records downloaded: 1593
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 31
+	Country: Denmark ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 6
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 7
+	Date: 2016-06-21 ; Times: 4
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-02 ; Times: 3
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "melanerpes carolinus tissue:1" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Columba livia" ; Times: 1
+	Query: "numenius tissue:1" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Icterus auratus" ; Times: 1
+	Query: "Thraupis melanoptera" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Campylorhynchus yucatanicus" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+
+
+End of report.

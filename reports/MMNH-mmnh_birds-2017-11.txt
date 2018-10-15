@@ -1,0 +1,104 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 828
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 53
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 11
+	Date: 2017-11-29 ; Times: 2
+	Date: 2017-11-27 ; Times: 15
+	Date: 2017-11-24 ; Times: 3
+	Date: 2017-11-25 ; Times: 13
+	Date: 2017-11-30 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "47996" ; Times: 1
+	Query: "35377" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "specificepithet:rufus genus:Selasphorus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1892" ; Times: 1
+	Query: "country:&#34;canada&#34; recordedby:forge" ; Times: 1
+	Query: "specificepithet:redivivum genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:bilineata class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1900" ; Times: 1
+	Query: "rubripes minnesota" ; Times: 3
+	Query: "specificepithet:nigricans genus:Sayornis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1908" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:baileyi class:Aves country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:psittacea genus:erythrura class:aves country:&#34;new caledonia&#34;" ; Times: 1
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "Ectopistes migratorius minnesota" ; Times: 1
+	Query: "specificepithet:psittacea genus:erythrura class:aves" ; Times: 1
+	Query: "Cygnus buccinator minnesota" ; Times: 5
+	Query: "hawk owl minnesota" ; Times: 1
+	Query: "genus:Campylorhynchus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "Chondestes grammacus minnesota" ; Times: 1
+	Query: "circus Minnesota" ; Times: 2
+	Query: "specificepithet:lecontei genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1896" ; Times: 1
+	Query: "specificepithet:borealis genus:numenius" ; Times: 1
+	Query: "surnia ulula minnesota" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:cinctus genus:parus class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Climacteris preparations:skeleton" ; Times: 1
+	Query: "Aechmophorus minnesota" ; Times: 2
+	Query: "specificepithet:costae genus:Calypte class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1970" ; Times: 2
+	Query: "specificepithet:virens class:Aves county:&#34;San Diego&#34; year &gt;= 1769" ; Times: 1
+	Query: "specificepithet:cirrhata class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "vntype:specimen specificepithet:baileyi class:Aves country:&#34;Mexico&#34;" ; Times: 1
+	Query: "buccinator minnesota" ; Times: 1
+	Query: "Yucatan Vireo sex:male" ; Times: 1
+	Query: "specificepithet:caerulea genus:Polioptila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1908" ; Times: 1
+	Query: "Mergus merganser minnesota" ; Times: 1
+	Query: "Podiceps grisegena minnesota" ; Times: 1
+	Query: "Podilymbus podiceps institutioncode:MMNH" ; Times: 2
+	Query: "vntype:specimen genus:Corythaeola continent:Africa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gavia immer institutioncode:MMNH" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus year &gt;= 1835 year &lt;= 1900" ; Times: 3
+	Query: "specificepithet:grammacus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "Bucephala clangula minnesota" ; Times: 1
+	Query: "Batis poensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1101 download events in this period)
+Total number of records downloaded: 59
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 4
+	Country: Israel ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 1
+	Date: 2017-11-29 ; Times: 2
+	Date: 2017-11-26 ; Times: 4
+	Date: 2017-11-27 ; Times: 3
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius paulus vntype:specimen" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "surnia ulula minnesota" ; Times: 1
+	Query: "specificepithet:cinctus genus:parus class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lophorina" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "Cinnycerthia unirufa" ; Times: 2
+	Query: "Batis poensis" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,365 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 194
+Number of records retrieved in searches: 2222
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 10
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 11
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 15
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: United States ; Times: 141
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 19
+	Date: 2018-02-08 ; Times: 37
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-02 ; Times: 5
+	Date: 2018-02-01 ; Times: 14
+	Date: 2018-02-07 ; Times: 12
+	Date: 2018-02-06 ; Times: 13
+	Date: 2018-02-05 ; Times: 13
+	Date: 2018-02-04 ; Times: 2
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-20 ; Times: 9
+	Date: 2018-02-23 ; Times: 9
+	Date: 2018-02-22 ; Times: 3
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-27 ; Times: 13
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-14 ; Times: 8
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 5
+	Date: 2018-02-10 ; Times: 2
+	Date: 2018-02-12 ; Times: 8
+	Date: 2018-02-13 ; Times: 5
+	Date: 2018-02-18 ; Times: 3
+	Date: 2018-02-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "Aix sponsa minnesota egg" ; Times: 1
+	Query: "specificepithet:ruficapilla genus:Vermivora institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Batis poensis" ; Times: 1
+	Query: "Anser albifrons basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "melospiza adusta" ; Times: 2
+	Query: "Anas penelope basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Batis perkeo" ; Times: 2
+	Query: "Marmaronetta angustirostris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ornatus genus:Myioborus" ; Times: 1
+	Query: "batis poensis" ; Times: 1
+	Query: "Nettapus coromandelianus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "specificepithet:grammacus genus:Chondestes institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:leucrophrys genus:Zonotrichia" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris lifestage:Adult sex:Male basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Carduelis hornemanni minnesota" ; Times: 2
+	Query: "Motacillidae+Cameroon" ; Times: 1
+	Query: "Anas aucklandica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "distance(location,geopoint(45.2821609080001,-95.686562195))&lt;36869" ; Times: 4
+	Query: "genus:Catharus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "Minnesota Ectopistes migratorius nest" ; Times: 1
+	Query: "Monarchidae+Cameroon" ; Times: 1
+	Query: "Aythya fuligula basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "Picumnus varzeae" ; Times: 1
+	Query: "meleagris gallapavo" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 4
+	Query: "Aythya affinis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Sturnidae+Cameroon" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:ludoviciana genus:Piranga institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "Dendrocygna arcuata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Anas erythrorhyncha basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Surnia class:Aves hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(45.0141613725,-95.721651943))&lt;22000" ; Times: 4
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 4
+	Query: "Chauna chavaria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Melanitta nigra basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 4
+	Query: "Anas fulvigula basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Minnesota Ectopistes migratorius 1874" ; Times: 1
+	Query: "country:&#34;Philippines&#34; year &gt;= 1890 year &lt;= 1893 institutioncode:MMNH" ; Times: 1
+	Query: "Chauna torquata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas acuta basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Numenius madagascariensis" ; Times: 1
+	Query: "class:aves country:&#34;french polynesia&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Ploceidae Cameroon" ; Times: 1
+	Query: "Anser fabalis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chionis alba mappable:1" ; Times: 4
+	Query: "Cuculidae+Cameroon" ; Times: 2
+	Query: "Glareolidae+Cameroon" ; Times: 1
+	Query: "Columba livia wisconsin" ; Times: 1
+	Query: "Platysteiridae+Cameroon" ; Times: 1
+	Query: "43638 genus:Catharus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "Aythya valisineria basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Somateria mollissima basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Anas bahamensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Bucerotidae+Cameroon" ; Times: 1
+	Query: "Lophonetta specularoides basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Turdus rufitorques" ; Times: 2
+	Query: "distance(location,geopoint(45.139607633725,-94.0595528125))&lt;16675" ; Times: 4
+	Query: "Anas querquedula basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Anas flavirostris basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:spurius genus:Icterus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "Bucephala clangula basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Diomedea nigripes" ; Times: 2
+	Query: "Sitta canadensis Mexico" ; Times: 1
+	Query: "year &gt;= 1890 year &lt;= 1893 institutioncode:MMNH" ; Times: 1
+	Query: "specificepithet:cinerascens genus:Myiarchus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "Anas versicolor basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Ramphastidae+Cameroon" ; Times: 2
+	Query: "tinamus major chiapas" ; Times: 1
+	Query: "Lophonetta specularoides basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Menage" ; Times: 1
+	Query: "Ploceus velatus mappable:1" ; Times: 4
+	Query: "50129" ; Times: 1
+	Query: "gbifdatasetid:85484744-f762-11e1-a439-00145eb45e9a" ; Times: 3
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "Dendrocygna autumnalis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:maccormicki class:aves" ; Times: 4
+	Query: "specificepithet:verticalis genus:Tyrannus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "heliornis fulica chiapas" ; Times: 1
+	Query: "Anas laysanensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Falco columbarius minnesota" ; Times: 2
+	Query: "Anas hottentota basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Coturnicops noveboracensis AND (mass OR weight)" ; Times: 1
+	Query: "specificepithet:melanocephalus genus:Pheucticus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "Aythya americana basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 4
+	Query: "specificepithet:cristatus genus:Podiceps hastissue:1" ; Times: 1
+	Query: "catharus phillipsi" ; Times: 1
+	Query: "Clangula hyemalis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "recordedby:jenison" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Anas crecca basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Aythya marila basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Ara macao" ; Times: 4
+	Query: "specificepithet:tridactylus genus:Picoides class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lonchura cucullata mappable:1" ; Times: 3
+	Query: "specificepithet:passerina genus:Spizella institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "hornemanni hornemanni minnesota" ; Times: 1
+	Query: "Phoebetria palpebrata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ectopistes migratorius minnesota" ; Times: 1
+	Query: "Batis pririt" ; Times: 1
+	Query: "Lophodytes cucullatus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "Columba livia minnesota" ; Times: 1
+	Query: "agelaius phoeniceus institutioncode:MMNH" ; Times: 4
+	Query: "46181" ; Times: 1
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "Locustella fluviatilis" ; Times: 2
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "Minnesota Ectopistes migratorius" ; Times: 1
+	Query: "specificepithet:virens genus:Andropadus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves (19137)" ; Times: 1
+	Query: "Phasianidae+Cameroon" ; Times: 1
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hornemanni exilipes minnesota" ; Times: 2
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "genus:Icterus stateprovince:&#34;Coahuila&#34;" ; Times: 5
+	Query: "Santa Clara County colaptes" ; Times: 1
+	Query: "sitta lilacea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 154 (out of 1892 download events in this period)
+Total number of records downloaded: 10495
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 7
+	Country: Israel ; Times: 1
+	Country: Unknown ; Times: 15
+	Country: France ; Times: 5
+	Country: United States ; Times: 119
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 10
+	Date: 2018-02-08 ; Times: 5
+	Date: 2018-02-02 ; Times: 16
+	Date: 2018-02-01 ; Times: 5
+	Date: 2018-02-07 ; Times: 3
+	Date: 2018-02-06 ; Times: 20
+	Date: 2018-02-05 ; Times: 32
+	Date: 2018-02-04 ; Times: 2
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-20 ; Times: 8
+	Date: 2018-02-23 ; Times: 14
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 6
+	Date: 2018-02-26 ; Times: 3
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 9
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 4
+	Date: 2018-02-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Carpodacus continent:North America" ; Times: 1
+	Query: "Pycnonotidae+Cameroon" ; Times: 1
+	Query: "specificepithet:ruficapilla genus:Vermivora institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "class:Aves country:&#34;Liberia&#34;" ; Times: 1
+	Query: "Batis poensis" ; Times: 2
+	Query: "Estrildidae Cameroon" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "Batis perkeo" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Estrilda" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "Platysteira cyanea" ; Times: 1
+	Query: "Motacillidae+Cameroon" ; Times: 1
+	Query: "Platysteira peltata" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Larus fuscus" ; Times: 1
+	Query: "Batis molitor" ; Times: 1
+	Query: "Picumnus varzeae" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "specificepithet:rutila genus:Emberiza" ; Times: 1
+	Query: "Sturnidae+Cameroon" ; Times: 1
+	Query: "specificepithet:melodia morphna genus:melospiza" ; Times: 1
+	Query: "agelaius phoeniceus institutioncode:MMNH" ; Times: 1
+	Query: "specificepithet:cajanea genus:Aramides continent:North America" ; Times: 1
+	Query: "Nectariniidae Cameroon" ; Times: 1
+	Query: "Batis soror" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "class:aves recordedby:weber" ; Times: 1
+	Query: "class:Aves country:&#34;Congo&#34;" ; Times: 2
+	Query: "specificepithet:peregrinus genus:falco hastissue:1" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "specificepithet:esculenta genus:Collocalia" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "specificepithet:ludoviciana genus:Piranga institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "Ploceidae Cameroon" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma continent:North America" ; Times: 2
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "Cuculidae+Cameroon" ; Times: 2
+	Query: "Platysteiridae+Cameroon" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "Bucerotidae+Cameroon" ; Times: 1
+	Query: "mammal minnesota" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "specificepithet:cristatus genus:Aegotheles" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "specificepithet:spurius genus:Icterus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "rollandia" ; Times: 3
+	Query: "specificepithet:cyaneus genus:Malurus" ; Times: 1
+	Query: "Prionops" ; Times: 1
+	Query: "Bourns" ; Times: 1
+	Query: "specificepithet:cinerascens genus:Myiarchus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Ramphastidae+Cameroon" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "Prionops retzii" ; Times: 1
+	Query: "specificepithet:lateralis genus:Zosterops" ; Times: 1
+	Query: "specificepithet:roseicapilla genus:Cacatua" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 4
+	Query: "Hylophilus ochraceiceps" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "capito aurovirens" ; Times: 1
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza" ; Times: 1
+	Query: "batis poensis" ; Times: 1
+	Query: "Batis minor" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "Glareolidae+Cameroon" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "Momotus momota" ; Times: 3
+	Query: "specificepithet:melanocephalus genus:Pheucticus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "class:Aves country:&#34;Senegal&#34;" ; Times: 1
+	Query: "Arremonops conirostris" ; Times: 2
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cassinii genus:Carpodacus" ; Times: 1
+	Query: "Batis capensis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:melpoda genus:Estrilda" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "specificepithet:passerina genus:Spizella institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza" ; Times: 2
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "Batis pririt" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "specificepithet:pica genus:Pica continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna" ; Times: 1
+	Query: "specificepithet:flaveola genus:Coereba continent:North America" ; Times: 2
+	Query: "specificepithet:melodia maxima genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "vntype:specimen genus:otus AND (asio) hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Sudan&#34;" ; Times: 1
+	Query: "specificepithet:virens genus:Andropadus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Phasianidae+Cameroon" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 2
+	Query: "Monarchidae+Cameroon" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:rumicivorus genus:Thinocorus" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,180 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 2147
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: United States ; Times: 109
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-16 ; Times: 3
+	Date: 2017-12-17 ; Times: 8
+	Date: 2017-12-14 ; Times: 12
+	Date: 2017-12-15 ; Times: 6
+	Date: 2017-12-12 ; Times: 9
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-10 ; Times: 9
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-19 ; Times: 1
+	Date: 2017-12-29 ; Times: 4
+	Date: 2017-12-27 ; Times: 5
+	Date: 2017-12-23 ; Times: 1
+	Date: 2017-12-22 ; Times: 13
+	Date: 2017-12-21 ; Times: 9
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-04 ; Times: 3
+	Date: 2017-12-07 ; Times: 5
+	Date: 2017-12-06 ; Times: 6
+	Date: 2017-12-01 ; Times: 7
+	Date: 2017-12-03 ; Times: 2
+	Date: 2017-12-02 ; Times: 8
+	Date: 2017-12-09 ; Times: 5
+	Date: 2017-12-08 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Aix sponsa minnesota egg" ; Times: 2
+	Query: "Anas platyrhynchos minnesota eggs" ; Times: 2
+	Query: "class:Aves locality:Isla Mujeres stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Melospiza lincolnii minnesota nest" ; Times: 2
+	Query: "burnett minnesota" ; Times: 2
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "Melospiza lincolnii minnesota" ; Times: 1
+	Query: "pterodroma hypoleuca hastissue:1" ; Times: 2
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "porzana porzana hastissue:1" ; Times: 3
+	Query: "4953 Aves" ; Times: 1
+	Query: "ardeidae skeleton tigrisoma mexicanum" ; Times: 1
+	Query: "specificepithet:tristis genus:carduelis recordedby:Kessen institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:auritus genus:Phalacrocorax class:Aves county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Rhynchotus" ; Times: 1
+	Query: "institutioncode:mmnh" ; Times: 1
+	Query: "affinis minnesota" ; Times: 1
+	Query: "Catharus minnesota egg" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "Accipiter gentilis minnesota" ; Times: 3
+	Query: "Sterna forsteri minnesota" ; Times: 1
+	Query: "Chaetura minnesota nest" ; Times: 2
+	Query: "specificepithet:lecontei genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1850 year &lt;= 2017" ; Times: 1
+	Query: "Yucatan Vireo sex:male" ; Times: 1
+	Query: "28290 Aves" ; Times: 2
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "Sterna hirundo minnesota" ; Times: 2
+	Query: "John Linklater institutioncode:MMNH" ; Times: 1
+	Query: "Polioptila caerulea minnesota" ; Times: 1
+	Query: "specificepithet:aureola genus:Emberiza hastissue:1" ; Times: 2
+	Query: "Branta canadensis eggs minnesota" ; Times: 2
+	Query: "Aix sponsa minnesota eggs" ; Times: 1
+	Query: "Lagopus minnesota" ; Times: 2
+	Query: "Melospiza lincolnii minnesota polk" ; Times: 1
+	Query: "Corvus minnesota eggs" ; Times: 1
+	Query: "Sitta canadensis minnesota" ; Times: 2
+	Query: "Chionis minor" ; Times: 8
+	Query: "22094" ; Times: 1
+	Query: "Ammodramus henslowii stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Perdix minnesota" ; Times: 4
+	Query: "Minnesota Loon" ; Times: 1
+	Query: "ustulatus minnesota nest" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34;" ; Times: 3
+	Query: "18756 Aves" ; Times: 2
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34;" ; Times: 5
+	Query: "Cardellina pusilla minnesota" ; Times: 1
+	Query: "44483" ; Times: 1
+	Query: "Aythya affinis minnesota" ; Times: 4
+	Query: "wolf stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "41234" ; Times: 1
+	Query: "Catoptrophorus semipalmatus minnesota" ; Times: 1
+	Query: "Catharus minnesota eggs" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "trumpeter swan" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma county:&#34;San Diego&#34;" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "specificepithet:auritus genus:Phalacrocorax class:Aves county:&#34;San Diego&#34; year &gt;= 1789 year &lt;= 1900" ; Times: 1
+	Query: "Pitta sordida" ; Times: 2
+	Query: "minnesota Euphagus cyanocephalus" ; Times: 1
+	Query: "goodspeed" ; Times: 1
+	Query: "John Linklater" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "specificepithet:phoeniceus genus:agelaius country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "cardinalis affinis" ; Times: 1
+	Query: "29809" ; Times: 1
+	Query: "wisconsin DNR" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "order:Procellariiformes institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "Aegolius acadicus minnesota eggs" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Catharus minnesota nest" ; Times: 1
+	Query: "Aix sponsa minnesota nest" ; Times: 1
+	Query: "37061" ; Times: 1
+	Query: "19886 Aves" ; Times: 2
+	Query: "Grus americana minnesota" ; Times: 3
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Aechmophorus minnesota" ; Times: 5
+	Query: "Tringa semipalmata minnesota" ; Times: 2
+	Query: "Corvus corax minnesota" ; Times: 1
+	Query: "specificepithet:tristis genus:carduelis institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "120922 Aves" ; Times: 1
+	Query: "&#34;farmington &#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "leconteii minnesota eggs" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 674 download events in this period)
+Total number of records downloaded: 456
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-08 ; Times: 3
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 3
+	Date: 2017-12-06 ; Times: 9
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+	Query: "arremonops" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "Aphelocoma ultramarina" ; Times: 1
+	Query: "Sterna hirundo minnesota" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "locality:Isla Mujeres stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:buteo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:aureola genus:Emberiza hastissue:1" ; Times: 1
+	Query: "Ammodramus henslowii stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "class:Aves locality:Isla Mujeres stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 6
+	Query: "country:&#34;mexico&#34; recordedby:brown year &gt;= 1934 year &lt;= 1953" ; Times: 1
+
+
+End of report.

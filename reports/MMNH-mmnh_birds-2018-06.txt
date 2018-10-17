@@ -1,0 +1,223 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 144
+Number of records retrieved in searches: 1439
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 30
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 7
+	Country: United States ; Times: 79
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 7
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 7
+	Date: 2018-06-29 ; Times: 7
+	Date: 2018-06-28 ; Times: 5
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 34
+	Date: 2018-06-24 ; Times: 3
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 3
+	Date: 2018-06-21 ; Times: 6
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-22 ; Times: 6
+	Date: 2018-06-11 ; Times: 4
+	Date: 2018-06-12 ; Times: 10
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-14 ; Times: 9
+	Date: 2018-06-15 ; Times: 5
+	Date: 2018-06-16 ; Times: 4
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-19 ; Times: 11
+	Date: 2018-06-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Setophaga ruticilla tricolora" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "laterallus jamaicensis veracruz" ; Times: 1
+	Query: "specificepithet:calendula genus:Regulus country:&#34;Mexico&#34; year &gt;= 1953 year &lt;= 1956" ; Times: 1
+	Query: "grus canadensis minnesota" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "vntype:specimen class:Aves catalognumber:35343" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1963" ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1962" ; Times: 1
+	Query: "clangula hyemalis egg iceland" ; Times: 1
+	Query: "Gallirallus torquatus" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "andigena cucullata" ; Times: 1
+	Query: "sterna dougallii vntype:specimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(44.8059502237725,-93.184175766894))&lt;11834" ; Times: 1
+	Query: "specificepithet:erythrophthalmus genus:pipilo month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "lagopus new mexico" ; Times: 1
+	Query: "phacellodomus striaticollis" ; Times: 1
+	Query: "distance(location,geopoint(45.0186511975549,-94.162894036879))&lt;22087" ; Times: 1
+	Query: "distance(location,geopoint(45.0501439614529,-93.7973836220047))&lt;15301" ; Times: 1
+	Query: "Recurvirostra americana minnesota" ; Times: 1
+	Query: "Atlapetes semirufus" ; Times: 1
+	Query: "skin vntype:specimen order:Falconiformes institutioncode:MMNH" ; Times: 1
+	Query: "specificepithet:aucklandica genus:Anas" ; Times: 3
+	Query: "distance(location,geopoint(44.6766598036737,-93.415851845333))&lt;11614" ; Times: 1
+	Query: "distance(location,geopoint(44.8282743318785,-94.2790539204441))&lt;38517" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "country:&#34;MEXICO&#34; institutioncode:MMNH" ; Times: 4
+	Query: "skin vntype:specimen order:accipitriformes institutioncode:MMNH" ; Times: 1
+	Query: "minnesota Tyrannus tyrannus egg" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 3
+	Query: "stateprovince:&#34;OAXACA&#34; institutioncode:MMNH" ; Times: 1
+	Query: "maxwell colorado" ; Times: 4
+	Query: "worthen 1884" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "vntype:specimen specificepithet:poliocerca genus:Eupherusa country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "36384`1" ; Times: 1
+	Query: "distance(location,geopoint(45.1023002453255,-93.167236335211))&lt;12793" ; Times: 1
+	Query: "Rollandia rolland" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "laterallus jamaicensis mexico" ; Times: 1
+	Query: "stateprovince:&#34;oaxaca&#34; institutioncode:MMNH" ; Times: 1
+	Query: "numenius borealis vntype:specimen" ; Times: 2
+	Query: "class:aves catalognumber:29304" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "genus:cathartes institutioncode:MMNH" ; Times: 1
+	Query: "Pardirallus maculatus vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:mirabilis genus:Cyanolyca" ; Times: 1
+	Query: "specificepithet:virens genus:Dendroica year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Apteryx haastii)" ; Times: 1
+	Query: "Fulica armillata" ; Times: 1
+	Query: "institutioncode:MMNH" ; Times: 1
+	Query: "toxostoma arenicola" ; Times: 1
+	Query: "Aratinga pertinax Venezuela vntype:specimen" ; Times: 1
+	Query: "class:Aves catalognumber:31381" ; Times: 3
+	Query: "minnesota Tyrannus tyrannus" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus country:&#34;Mexico&#34; year &gt;= 1960 year &lt;= 1965" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "numenius borealis" ; Times: 29
+	Query: "locality:OAXACA institutioncode:MMNH" ; Times: 1
+	Query: "Turdus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:36107" ; Times: 1
+	Query: "Rollandia rolland rolland" ; Times: 1
+	Query: "genus:sarcoramphus institutioncode:MMNH" ; Times: 3
+	Query: "Stebbins egg" ; Times: 1
+	Query: "minnesota Falco peregrinus" ; Times: 1
+	Query: "confinis hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:aves locality:sardinia" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "specificepithet:tigrina genus:Dendroica year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 2
+	Query: "class:aves catalognumber:29294" ; Times: 2
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "specificepithet:discors genus:Anas year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "Turdus confinis hastissue:1" ; Times: 2
+	Query: "class:Aves (33324)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 1169 download events in this period)
+Total number of records downloaded: 2290
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 19
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 34
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 5
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-07 ; Times: 9
+	Date: 2018-06-06 ; Times: 7
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 7
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-16 ; Times: 4
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "Setophaga ruticilla tricolora" ; Times: 1
+	Query: "vntype:specimen specificepithet:lucifer genus:Calothorax country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "snowy owl" ; Times: 2
+	Query: "skin vntype:specimen order:Falconiformes institutioncode:MMNH" ; Times: 1
+	Query: "Guadalupe Island specificepithet:mexicanus" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "genus:Pipilo stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "vntype:specimen class:aves locality:sardinia" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "skin vntype:specimen order:accipitriformes institutioncode:MMNH" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "Crax rubra" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "oriturus" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "Junco hyemalis aikeni" ; Times: 2
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "pond turtle" ; Times: 1
+	Query: "phacellodomus striaticollis" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "bald eagle" ; Times: 5
+	Query: "picoides arcticus" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:Atthis country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "Turdus confinis hastissue:1" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+
+
+End of report.

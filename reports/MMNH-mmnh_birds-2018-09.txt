@@ -1,0 +1,178 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 588
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 29
+	Country: Denmark ; Times: 5
+	Country: India ; Times: 3
+	Country: United States ; Times: 58
+	Country: Unknown ; Times: 2
+	Country: Cyprus ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-02 ; Times: 2
+	Date: 2018-09-03 ; Times: 8
+	Date: 2018-09-26 ; Times: 9
+	Date: 2018-09-27 ; Times: 3
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-21 ; Times: 7
+	Date: 2018-09-04 ; Times: 5
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-12 ; Times: 4
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 3
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 7
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-25 ; Times: 9
+	Date: 2018-09-20 ; Times: 20
+	Date: 2018-09-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Accipter" ; Times: 1
+	Query: "specificepithet:monedula genus:Corvus class:Aves hastissue:1" ; Times: 1
+	Query: "la joya veracruz" ; Times: 4
+	Query: "50292 class:Aves" ; Times: 2
+	Query: "Falco severus" ; Times: 1
+	Query: "specificepithet:gallinago genus:Gallinago hastissue:1" ; Times: 1
+	Query: "house crow" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "albino stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "specificepithet:corone genus:Corvus class:Aves hastissue:1" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "specificepithet:steerii genus:oriolus" ; Times: 1
+	Query: "monk parakeet" ; Times: 1
+	Query: "egg minnesota 1878" ; Times: 1
+	Query: "Semioptera" ; Times: 1
+	Query: "albinistic stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "specificepithet:media genus:Gallinago hastissue:1" ; Times: 2
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "Acatlan puebla" ; Times: 3
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "Guadalupe Island 1897" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 15
+	Query: "egg mississippi" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "specificepithet:gutturalis genus:habia" ; Times: 1
+	Query: "Elanoides forficatus minnesota" ; Times: 1
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "43935" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "specificepithet:speciosa genus:geothlypis" ; Times: 1
+	Query: "egg spizella minnesota" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "specificepithet:rutila genus:Amazilia" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "fulicarius minnesota" ; Times: 1
+	Query: "Leptodon cayanensis vntype:specimen" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "egg 1873 minnesota" ; Times: 1
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34; country:&#34;canada&#34;" ; Times: 2
+	Query: "Phalaropus minnesota" ; Times: 2
+	Query: "Tringa semipalmata minnesota" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 3
+	Query: "Lamprolaima" ; Times: 1
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+	Query: "specificepithet:macroura class:aves year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "Diomedea exulans skeleton vntype:specimen hassex:1" ; Times: 1
+	Query: "zonotrichia leucophrys Churchill egg" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "minnesota Laterallus jamaicensis" ; Times: 1
+	Query: "acatlan puebla" ; Times: 5
+	Query: "specificepithet:atrimaxillaris genus:habia" ; Times: 1
+	Query: "specificepithet:cryptoleucus genus:corvus hastissue:1" ; Times: 1
+	Query: "Semipalmated Plover minnesota" ; Times: 1
+	Query: "Laterallus jamaicensis minnesota" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34;" ; Times: 2
+	Query: "specificepithet:semirufus genus:Atlapetes" ; Times: 1
+	Query: "Catoptrophorus minnesota" ; Times: 4
+	Query: "Chrysococcyx cupreus cm" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 846 download events in this period)
+Total number of records downloaded: 1423
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Philippines ; Times: 2
+	Country: United States ; Times: 17
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-24 ; Times: 6
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-15 ; Times: 2
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "la joya veracruz" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "minnesota fred barker" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "Aves vntype:specimen country:&#34;Philippines&#34; hastissue:1" ; Times: 1
+	Query: "pithecophaga jefferyi" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "sterna dougallii vntype:specimen country:&#34;United States&#34; continent:America year &gt;= 1880 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "acatlan puebla" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Sierra Nevada de Santa Marta" ; Times: 1
+
+
+End of report.

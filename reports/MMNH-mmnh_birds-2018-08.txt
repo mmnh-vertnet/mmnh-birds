@@ -1,0 +1,204 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 264
+Number of records retrieved in searches: 721
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Denmark ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 243
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-31 ; Times: 7
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-14 ; Times: 3
+	Date: 2018-08-15 ; Times: 2
+	Date: 2018-08-12 ; Times: 3
+	Date: 2018-08-13 ; Times: 3
+	Date: 2018-08-10 ; Times: 59
+	Date: 2018-08-22 ; Times: 8
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-23 ; Times: 5
+	Date: 2018-08-08 ; Times: 3
+	Date: 2018-08-21 ; Times: 26
+	Date: 2018-08-20 ; Times: 109
+	Date: 2018-08-04 ; Times: 5
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-06 ; Times: 4
+	Date: 2018-08-01 ; Times: 5
+	Date: 2018-08-03 ; Times: 5
+	Date: 2018-08-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "LAC 104" ; Times: 1
+	Query: "35547" ; Times: 1
+	Query: "48541" ; Times: 1
+	Query: "vntype:specimen genus:Corythaeola" ; Times: 2
+	Query: "class:AVES locality:savane" ; Times: 1
+	Query: "genus:Catharus year &gt;= 1904 year &lt;= 1904" ; Times: 2
+	Query: "Auriparus flaviceps hastissue:1" ; Times: 2
+	Query: "Pithecophaga jefferyi" ; Times: 1
+	Query: "49831" ; Times: 1
+	Query: "specificepithet:lepidus genus:ceyx country:&#34;philippines&#34;" ; Times: 1
+	Query: "class:AVES locality:dondo" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;durango&#34;" ; Times: 1
+	Query: "null" ; Times: 122
+	Query: "35625" ; Times: 1
+	Query: "specificepithet:borealis genus:Numenius institutioncode:MMNH" ; Times: 1
+	Query: "abnormal growth" ; Times: 4
+	Query: "vntype:specimen specificepithet:borealis genus:Numenius institutioncode:MMNH" ; Times: 1
+	Query: "specificepithet:nivosus genus:charadrius county:&#34;orange&#34;" ; Times: 1
+	Query: "24493" ; Times: 1
+	Query: "Toxostoma crissale hastissue:1" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;morelos&#34;" ; Times: 1
+	Query: "rollandia rolland rolland" ; Times: 1
+	Query: "39306" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma hastissue:1" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax year &gt;= 1891 year &lt;= 1891" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus" ; Times: 1
+	Query: "porphyrio pulverulentus" ; Times: 2
+	Query: "Corapipo leucorrhoa" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "33004" ; Times: 1
+	Query: "genus:Catharus year &gt;= 1898 year &lt;= 1898 startdayofyear &gt;= 174 enddayofyear &gt;= 174" ; Times: 1
+	Query: "33147 class:aves" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "specificepithet:pallida genus:spizella institutioncode:MMNH" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "class:AVES locality:pinetown" ; Times: 1
+	Query: "41411" ; Times: 1
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Spencei genus:Heliangelus" ; Times: 1
+	Query: "43649" ; Times: 1
+	Query: "&#34;sunset beach&#34; genus:sterna county:&#34;orange&#34;" ; Times: 1
+	Query: "sterna aleutica" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "genus:Gallinago hastissue:1" ; Times: 3
+	Query: "oriturus superciliosus stateprovince:&#34;méxico&#34;" ; Times: 1
+	Query: "45758 class:Aves" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "class:AVES locality:beira" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;mexico&#34;" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 2
+	Query: "genus:rhipidura country:&#34;new caledonia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sterna aleutica" ; Times: 57
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "specificepithet:scutulata genus:Cairina" ; Times: 1
+	Query: "Dease Lake hastissue:1" ; Times: 1
+	Query: "passerina hybrid" ; Times: 2
+	Query: "oriturus superciliosus stateprovince:&#34;federal&#34;" ; Times: 2
+	Query: "specificepithet:cunicularia genus:Athene family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:nuchalis genus:Sphyrapicus country:&#34;Canada&#34;" ; Times: 1
+	Query: "MMNH 18948" ; Times: 2
+	Query: "MMNH 18949" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1416 download events in this period)
+Total number of records downloaded: 2874
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 34
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 6
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-13 ; Times: 7
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-02 ; Times: 4
+	Date: 2018-08-09 ; Times: 6
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-19 ; Times: 10
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 11
+	Date: 2018-08-12 ; Times: 3
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "vntype:specimen genus:sterna county:&#34;orange&#34;" ; Times: 1
+	Query: "sterna aleutica" ; Times: 3
+	Query: "vntype:specimen specificepithet:trichopsis genus:otus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "abnormal growth" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma hastissue:1" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Oriturus superciliosus" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Corapipo leucorrhoa" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Sporophila minuta" ; Times: 1
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "oriturus superciliosus" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus hastissue:1" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma hastissue:1" ; Times: 1
+	Query: "Sterna aleutica" ; Times: 2
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "oaxaca" ; Times: 1
+	Query: "Hemignathus virens" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "specificepithet:cunicularia genus:Athene family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,219 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 2095
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Honduras ; Times: 11
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 96
+	Country: Sweden ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 7
+	Date: 2018-10-04 ; Times: 7
+	Date: 2018-10-23 ; Times: 7
+	Date: 2018-10-01 ; Times: 5
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 4
+	Date: 2018-10-30 ; Times: 8
+	Date: 2018-10-22 ; Times: 9
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-07 ; Times: 3
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-27 ; Times: 8
+	Date: 2018-10-24 ; Times: 18
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-29 ; Times: 5
+	Date: 2018-10-09 ; Times: 4
+	Date: 2018-10-18 ; Times: 6
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 6
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-10 ; Times: 8
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-16 ; Times: 3
+	Date: 2018-10-15 ; Times: 7
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Dolichonyx oryzivorus institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Microcerculus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "locality:aleutians stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:gutturalis genus:Habia" ; Times: 1
+	Query: "Grus canadensis stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "dove minnesota" ; Times: 1
+	Query: "specificepithet:caerulea genus:Polioptila class:aves year &gt;= 1893 year &lt;= 1893" ; Times: 1
+	Query: "minnesota Colaptes auratus" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "minnesota Larus delawarensis" ; Times: 1
+	Query: "genus:selasphorus stateprovince:&#34;Oregon&#34; year &gt;= 1800 year &lt;= 2006 month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "ave mimidae" ; Times: 2
+	Query: "grus canadensis stateprovince:&#34;Nebraska&#34;" ; Times: 3
+	Query: "sturnella magna institutioncode:MMNH hastissue:1" ; Times: 3
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "specificepithet:caudacutus genus:Ammodramus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza hastissue:1" ; Times: 1
+	Query: "calidris tenuirostris" ; Times: 2
+	Query: "hybrid genus:Icterus" ; Times: 4
+	Query: "minnesota Colaptes auratus cafer" ; Times: 1
+	Query: "Piranga institutioncode:MMNH" ; Times: 8
+	Query: "sagamore" ; Times: 1
+	Query: "specificepithet:canagica genus:Chen hastissue:1" ; Times: 1
+	Query: "pigeon minnesota" ; Times: 1
+	Query: "specificepithet:difficilis genus:Empidonax class:aves stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "minnesota Colaptes auratus luteus" ; Times: 1
+	Query: "Laterallus minnesota" ; Times: 1
+	Query: "specificepithet:striata genus:aplonis" ; Times: 3
+	Query: "elephant bird" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Colaptes auratus borealis minnesota" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "grus canadensis stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "minnesota Catharus guttatus faxoni" ; Times: 1
+	Query: "stateprovince:&#34;OAXACA&#34; institutioncode:MMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:tapera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 2
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "sturnella magna hastissue:1" ; Times: 1
+	Query: "class:aves recordedby:Brewer" ; Times: 1
+	Query: "minnesota Colaptes auratus auratus" ; Times: 1
+	Query: "minnesota Catharus guttatus euborius" ; Times: 1
+	Query: "la joya veracruz" ; Times: 1
+	Query: "minnesota Fringillidae Leucosticte" ; Times: 1
+	Query: "vntype:specimen specificepithet:marginatus genus:Microcerculus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:43620" ; Times: 1
+	Query: "minnesota Catharus guttatus guttatus" ; Times: 1
+	Query: "Pyrrhura molinae" ; Times: 3
+	Query: "Semioptera" ; Times: 1
+	Query: "specificepithet:fulica genus:heliornis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:selasphorus stateprovince:&#34;Oregon&#34; (selasphorus) year &gt;= 1860 year &lt;= 2007 month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "institutioncode:MMNH" ; Times: 1
+	Query: "mountain beaver" ; Times: 2
+	Query: "minnesota Fringillidae Leucosticte tephrocotis" ; Times: 1
+	Query: "cantwell minnesota garrulus" ; Times: 1
+	Query: "tanager institutioncode:MMNH" ; Times: 1
+	Query: "Dolichonyx oryzivorus hastissue:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:nebulosa genus:strix (wing)" ; Times: 1
+	Query: "Empidonax albigularis" ; Times: 11
+	Query: "genus:heliornis haslifestage:1" ; Times: 1
+	Query: "bombus" ; Times: 1
+	Query: "minnesota Catharus guttatus auduboni" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "genus:Picoides stateprovince:&#34;Minnesota&#34;" ; Times: 3
+	Query: "specificepithet:macroura genus:Dendrortyx" ; Times: 2
+	Query: "(38429)" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella class:Aves year &gt;= 1891 year &lt;= 1891" ; Times: 1
+	Query: "minnesota Catharus guttatus" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 1
+	Query: "gallirallus torquatus skeleton" ; Times: 1
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "specificepithet:caerulea genus:Polioptila class:Aves year &gt;= 1893 year &lt;= 1893" ; Times: 1
+	Query: "sturnella magna institutioncode:MMNH" ; Times: 1
+	Query: "(&#34;snake road&#34;)" ; Times: 2
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:MMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sturnella neglecta institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Vireo nelsoni" ; Times: 1
+	Query: "specificepithet:atrimaxillaris genus:Habia" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "minnesota Junco hyemalis caniceps" ; Times: 1
+	Query: "unlv class:aves" ; Times: 1
+	Query: "minnesota &#34;Catharus guttatus guttatus&#34;" ; Times: 1
+	Query: "Cypseloides niger mexico" ; Times: 1
+	Query: "collocalia uropygialis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1300 download events in this period)
+Total number of records downloaded: 962
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Venezuela ; Times: 1
+	Country: United States ; Times: 26
+	Country: Belgium ; Times: 3
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-23 ; Times: 7
+	Date: 2018-10-02 ; Times: 4
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-24 ; Times: 5
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 2
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "family:apodidae hastissue:1" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "genus:Picoides stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "paulson" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:satrapa genus:Regulus hastissue:1" ; Times: 1
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Parabuteo country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:heliornis" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "geospiza fortis" ; Times: 1
+	Query: "grus canadensis stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:MMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:musica genus:euphonia" ; Times: 1
+	Query: "Ridgwayia" ; Times: 4
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 2
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "genus: Hirundo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Empidonax albigularis" ; Times: 1
+	Query: "Paulson" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "vntype:specimen class:Aves county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+
+
+End of report.

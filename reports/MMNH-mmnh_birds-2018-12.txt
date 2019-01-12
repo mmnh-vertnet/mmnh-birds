@@ -1,0 +1,184 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 330
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 55
+	Country: Peru ; Times: 6
+	Country: Argentina ; Times: 1
+	Country: Cameroon ; Times: 1
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 4
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 5
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-14 ; Times: 6
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-13 ; Times: 2
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-29 ; Times: 5
+	Date: 2018-12-21 ; Times: 5
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 2
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-25 ; Times: 3
+	Date: 2018-12-08 ; Times: 3
+	Date: 2018-12-27 ; Times: 1
+	Date: 2018-12-06 ; Times: 5
+	Date: 2018-12-07 ; Times: 6
+	Date: 2018-12-04 ; Times: 9
+	Date: 2018-12-05 ; Times: 6
+	Date: 2018-12-02 ; Times: 2
+	Date: 2018-12-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "stateprovince:&#34;Manitoba&#34; recordedby:bell" ; Times: 3
+	Query: "specificepithet:atricapillus genus:Poecile year = 2000" ; Times: 1
+	Query: "Aix sponsa 100" ; Times: 1
+	Query: "specificepithet:haastii genus:Apteryx" ; Times: 1
+	Query: "46722" ; Times: 1
+	Query: "anthus rubescens hastissue:1" ; Times: 1
+	Query: "37809" ; Times: 1
+	Query: "Atlixco" ; Times: 4
+	Query: "35646" ; Times: 1
+	Query: "vntype:specimen genus:Microbates class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Cardinalis" ; Times: 1
+	Query: "Aplonis striata striata" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Dumetella year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "45926" ; Times: 3
+	Query: "Grus canadensis stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "specificepithet:niger genus:cypseloides country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:spurius genus:Icterus country:&#34;mexico&#34; year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "agelaius minnesota egg" ; Times: 2
+	Query: "specificepithet:spurius genus:Icterus country:&#34;mexico&#34; year &gt;= 1995 year &lt;= 2018 month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "rallus limicola hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Los Angeles stateprovince:&#34;California&#34; year &lt;= 1890" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "pterodroma mollis vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "skel specificepithet:camelus genus:Struthio" ; Times: 1
+	Query: "Calandrella rufescens" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 2
+	Query: "quiscula South Dakota" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "recordedby:greenwood year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 3
+	Query: "specificepithet:brunneicapillus hastissue:1" ; Times: 2
+	Query: "genus:cypseloides country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Cyphorhinus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "recordedby:greenwood year &gt;= 1870 year &lt;= 1900" ; Times: 2
+	Query: "vntype:specimen genus:Aegolius country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:aradus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "35439" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 4
+	Query: "specificepithet:spurius genus:Icterus stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34; year &gt;= 1995 year &lt;= 2018 month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "agelaius minnesota" ; Times: 2
+	Query: "vntype:specimen specificepithet:aegyptiaca genus:Alopochen" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 3
+	Query: "39747" ; Times: 1
+	Query: "aplonis striata" ; Times: 3
+	Query: "46137" ; Times: 2
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus country:&#34;Canada&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "pterodroma brevipes vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "33307" ; Times: 2
+	Query: "specificepithet:barbatus genus:Pycnonotus country:&#34;Cameroon&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 809 download events in this period)
+Total number of records downloaded: 3293
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 9
+	Country: France ; Times: 1
+	Country: United States ; Times: 21
+	Country: Peru ; Times: 1
+	Country: Cameroon ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-12 ; Times: 3
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-17 ; Times: 6
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-31 ; Times: 4
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "steatornis caripensis" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Cardinalis" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "specificepithet:poliogaster genus:Caryothraustes" ; Times: 1
+	Query: "Strigops" ; Times: 2
+	Query: "athene cunicularia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "specificepithet:barbatus genus:Pycnonotus country:&#34;Cameroon&#34;" ; Times: 1
+	Query: "pipreola" ; Times: 1
+	Query: "anthony country:&#34;Mexico&#34; year &gt;= 1893 year &lt;= 1893" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+
+
+End of report.

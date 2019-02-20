@@ -1,0 +1,282 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 175
+Number of records retrieved in searches: 719
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 45
+	Country: Germany ; Times: 7
+	Country: Peru ; Times: 111
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-23 ; Times: 3
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 6
+	Date: 2019-01-15 ; Times: 14
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-17 ; Times: 8
+	Date: 2019-01-10 ; Times: 9
+	Date: 2019-01-11 ; Times: 19
+	Date: 2019-01-12 ; Times: 10
+	Date: 2019-01-13 ; Times: 23
+	Date: 2019-01-03 ; Times: 5
+	Date: 2019-01-02 ; Times: 5
+	Date: 2019-01-29 ; Times: 8
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-09 ; Times: 32
+	Date: 2019-01-22 ; Times: 4
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-27 ; Times: 7
+	Date: 2019-01-08 ; Times: 7
+	Date: 2019-01-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Chaetura brachyura" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "Anas flavirostris" ; Times: 1
+	Query: "specificepithet:gutturalis genus:Habia" ; Times: 1
+	Query: "Trogon curucui" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "specificepithet:tenuirostris genus:Puffinus year &gt;= 1984 year &lt;= 1984 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Bucco capensis" ; Times: 1
+	Query: "Picumnus aurifrons" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 1
+	Query: "specificepithet:Ferina genus:Aythya country:&#34;United states&#34;" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Pionus menstruus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Micrastur semitorquatus" ; Times: 1
+	Query: "Cathartes burrovianus" ; Times: 1
+	Query: "specificepithet:rufigularis genus:falco" ; Times: 1
+	Query: "Galbula cyanicollis" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "Eubucco aurantiicollis" ; Times: 1
+	Query: "Bolborhynchus lineola" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "rhynochetos" ; Times: 1
+	Query: "Oceanodroma microsoma" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 2
+	Query: "sphyrapicus ruber sex:female hastissue:1" ; Times: 3
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Galbula cyanescens" ; Times: 1
+	Query: "Harpagus bidentatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufigularis genus:falco" ; Times: 1
+	Query: "Amaurolimnas concolor concolor" ; Times: 1
+	Query: "Graydidascalus brachyurus" ; Times: 1
+	Query: "Ramphastos ambiguus" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "philepitta schlegeli amnh" ; Times: 1
+	Query: "genus:Geococcyx sex:female hastissue:1" ; Times: 1
+	Query: "Pardirallus maculatus" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "42855" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "Badger AND Cruz NOT County" ; Times: 1
+	Query: "genus:Amazona hastissue:1" ; Times: 3
+	Query: "48586" ; Times: 1
+	Query: "Chlorostilbon notatus" ; Times: 1
+	Query: "Amazilia chionogaster" ; Times: 1
+	Query: "Andigena cucullata" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "Eubucco richardsoni" ; Times: 1
+	Query: "Chalybura buffonii" ; Times: 1
+	Query: "Patagona gigas" ; Times: 2
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Veniliornis kirkii" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 1
+	Query: "Discosura popelairii" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "Conopophaga aurita" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 1
+	Query: "Asio clamator" ; Times: 1
+	Query: "Rollandia rolland" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Ramphomicron microrhynchum" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female hastissue:1" ; Times: 1
+	Query: "Monasa nigrifrons" ; Times: 1
+	Query: "Pyrrhura melanura" ; Times: 1
+	Query: "Dendroica chrysoparia" ; Times: 1
+	Query: "specificepithet:erythropthalmus genus:Coccyzus sex:female year &gt;= 2004 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "specificepithet:erythropthalmus genus:Coccyzus sex:female year &gt;= 2001 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Prunus" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Tigrisoma mexicanum" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 4
+	Query: "Columbina minuta" ; Times: 1
+	Query: "Galbula tombacea" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "cowbird minnesota egg" ; Times: 1
+	Query: "Phylloscopus trochiloides" ; Times: 2
+	Query: "chloephaga hybrida" ; Times: 3
+	Query: "Campylorhamphus pusillus" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "26287" ; Times: 1
+	Query: "Amaurolimnas concolor" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Pardirallus sanguinolentus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Melanerpes pucherani" ; Times: 1
+	Query: "Chelidoptera tenebrosa" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "specificepithet:platypterus genus:buteo stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "Fulica rufifrons" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Brotogeris sanctithomae" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "bonasa 1888" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "Anabacerthia striaticollis" ; Times: 1
+	Query: "cowbird minnesota" ; Times: 1
+	Query: "Geranoaetus melanoleucus" ; Times: 1
+	Query: "Capito aurovirens" ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "Liosceles thoracicus" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "Pulsatrix perspicillata" ; Times: 1
+	Query: "Dromococcyx phasianellus" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Mniotilta varia minnesota" ; Times: 3
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Eubucco bourcierii" ; Times: 1
+	Query: "Anas georgica" ; Times: 1
+	Query: "Dendroica kirtlandii" ; Times: 4
+	Query: "Botaurus pinnatus" ; Times: 1
+	Query: "specificepithet:gentilis year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "Phalcoboenus megalopterus" ; Times: 1
+	Query: "obsoletus coconino" ; Times: 1
+	Query: "Badger AND Cruz NOT County NOT MTS" ; Times: 2
+	Query: "Psittacula sarawak" ; Times: 6
+	Query: "sand fly" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:atrimaxillaris genus:Habia" ; Times: 1
+	Query: "catalognumber:8924 institutioncode:MMNH" ; Times: 1
+	Query: "Fregetta tropica" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Psaltriparus minimus country:Mexico hastissue:1" ; Times: 1
+	Query: "aplonis striata" ; Times: 1
+	Query: "Steatornis caripensis" ; Times: 1
+	Query: "Galbula dea" ; Times: 1
+	Query: "Grallaria guatimalensis" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Amazilia versicolor" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Gymnopithys leucaspis" ; Times: 1
+	Query: "Badger AND Cruz NOT County NOT MTNS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 962 download events in this period)
+Total number of records downloaded: 628
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 35
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 5
+	Date: 2019-01-02 ; Times: 4
+	Date: 2019-01-01 ; Times: 5
+	Date: 2019-01-08 ; Times: 3
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-04 ; Times: 3
+	Date: 2019-01-15 ; Times: 4
+	Date: 2019-01-09 ; Times: 5
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-24 ; Times: 3
+	Date: 2019-01-22 ; Times: 4
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-23 ; Times: 4
+	Date: 2019-01-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sphyrapicus varius sex:female hastissue:1" ; Times: 1
+	Query: "Melanerpes uropygialis" ; Times: 1
+	Query: "specificepithet:rositae genus:Passerina" ; Times: 1
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen class:Aves (culmen)" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "specificepithet:gutturalis genus:Habia" ; Times: 1
+	Query: "specificepithet:sallaei genus:Granatellus" ; Times: 2
+	Query: "stateprovince:&#34;Nayarit&#34; recordedby:Phillips" ; Times: 1
+	Query: "melanerpes uropygialis" ; Times: 1
+	Query: "specificepithet:poliogaster genus:Caryothraustes" ; Times: 1
+	Query: "Falco femoralis septentrionalis" ; Times: 1
+	Query: "Colaptes chrysoides" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Sturnella militaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Polioptila melanura" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:atrimaxillaris genus:Habia" ; Times: 1
+	Query: "specificepithet:sula genus:Sula stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "Calidris canutus rufa" ; Times: 3
+	Query: "sphyrapicus ruber sex:female hastissue:1" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "specificepithet:celaeno genus:Rhodothraupis" ; Times: 1
+	Query: "PIONUS SENILIS" ; Times: 1
+	Query: "Hylocharis xantusii" ; Times: 1
+	Query: "Psaltriparus minimus country:Mexico hastissue:1" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "specificepithet:cela genus:Cacicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:parellina genus:Cyanocompsa" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+
+
+End of report.

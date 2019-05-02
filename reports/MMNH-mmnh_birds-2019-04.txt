@@ -1,0 +1,291 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 164
+Number of records retrieved in searches: 703
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 27
+	Country: Canada ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Belgium ; Times: 37
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Switzerland ; Times: 6
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 70
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 15
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 7
+	Date: 2019-04-05 ; Times: 12
+	Date: 2019-04-13 ; Times: 3
+	Date: 2019-04-12 ; Times: 7
+	Date: 2019-04-11 ; Times: 7
+	Date: 2019-04-10 ; Times: 5
+	Date: 2019-04-17 ; Times: 15
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-07 ; Times: 2
+	Date: 2019-04-03 ; Times: 11
+	Date: 2019-04-06 ; Times: 18
+	Date: 2019-04-22 ; Times: 9
+	Date: 2019-04-23 ; Times: 5
+	Date: 2019-04-20 ; Times: 3
+	Date: 2019-04-21 ; Times: 2
+	Date: 2019-04-26 ; Times: 5
+	Date: 2019-04-01 ; Times: 6
+	Date: 2019-04-02 ; Times: 10
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-29 ; Times: 4
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-09 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "piranga rubra x olivacea" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "seiurus cinereus" ; Times: 1
+	Query: "Anas georgica" ; Times: 2
+	Query: "50360" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma year &gt;= 1970 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "piranga olivacea x rubra" ; Times: 2
+	Query: "catalognumber:19401 institutioncode:MMNH" ; Times: 1
+	Query: "specificepithet:ciris genus:Passerina sex:female year &gt;= 1960" ; Times: 1
+	Query: "catalognumber:5154 institutioncode:MMNH" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 2
+	Query: "locality:Presque Isle county:&#34;Erie&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "catalognumber:29491 institutioncode:MMNH" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Cathartes burrovianus" ; Times: 1
+	Query: "Maxwell Colorado" ; Times: 1
+	Query: "empidonax imperturbatus" ; Times: 1
+	Query: "Strix virgata" ; Times: 1
+	Query: "anas aucklandica" ; Times: 1
+	Query: "class:Aves catalognumber:17760 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "class:Aves catalognumber:19632 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:34773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Urubitinga urubitinga" ; Times: 1
+	Query: "class:Aves catalognumber:14880 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Struthio camelus egg" ; Times: 1
+	Query: "catalognumber:5157 institutioncode:MMNH" ; Times: 1
+	Query: "class:Aves catalognumber:11923 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:tenebrosa genus:Chelidoptera" ; Times: 1
+	Query: "institutioncode:mmnh" ; Times: 1
+	Query: "amazona viridigenalis" ; Times: 1
+	Query: "catalognumber:5054 institutioncode:MMNH" ; Times: 1
+	Query: "specificepithet:querula genus:Zonotrichia hastissue:1" ; Times: 1
+	Query: "catalognumber:1055 institutioncode:MMNH" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes sex:male preparations:skeleton" ; Times: 2
+	Query: "class:Aves catalognumber:26201 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Stercorarius hastissue:1" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "35131" ; Times: 1
+	Query: "35132" ; Times: 1
+	Query: "specificepithet:moneduloides genus:Corvus" ; Times: 1
+	Query: "MMNH 47265" ; Times: 1
+	Query: "specificepithet:armillata genus:Fulica" ; Times: 1
+	Query: "seiurus limnaeus" ; Times: 1
+	Query: "specificepithet:atrimaxillaris genus:Habia year &gt;= 1940 year &lt;= 2018" ; Times: 2
+	Query: "33461" ; Times: 1
+	Query: "&#34;welder wildlife foundation&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:9325 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:minor genus:Eudyptula preparations:Skeleton" ; Times: 1
+	Query: "specificepithet:versicolor genus:Passerina year &gt;= 1960" ; Times: 1
+	Query: "class:Aves catalognumber:14155 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Bonasa stateprovince:&#34;Minnesota&#34; hastissue:1" ; Times: 1
+	Query: "mississippi bird eggs" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "class:Aves catalognumber:12956 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:10440 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Drepanoptila" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "MMNH 3778" ; Times: 2
+	Query: "MMNH 3779" ; Times: 2
+	Query: "catalognumber:517 institutioncode:MMNH" ; Times: 1
+	Query: "Coturnicops noveboracensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "class:Aves catalognumber:24109 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:21596 institutioncode:MMNH" ; Times: 1
+	Query: "class:Aves catalognumber:3288 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:50656 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "big bluestem" ; Times: 2
+	Query: "Leptodon cayanensis" ; Times: 2
+	Query: "genus:Pedionomus" ; Times: 1
+	Query: "class:Aves catalognumber:36623 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Pyrrhura molinae" ; Times: 2
+	Query: "class:Aves catalognumber:4731 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Drepanoptila" ; Times: 1
+	Query: "class:Aves catalognumber:4954 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "zonotrichia querula hastissue:1" ; Times: 1
+	Query: "catalognumber:3225 institutioncode:MMNH" ; Times: 1
+	Query: "class:Aves catalognumber:37099 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:5476 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "50360 Aves" ; Times: 1
+	Query: "class:Aves catalognumber:45896 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "class:Aves catalognumber:7773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:31360 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:dominica genus:Pluvialis stateprovince:&#34;Alaska&#34; year &gt;= 1989 year &lt;= 1989" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "class:Aves catalognumber:34775 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis country:&#34;Mexico&#34; year &gt;= 1950 year &lt;= 2018" ; Times: 2
+	Query: "class:Aves catalognumber:42861 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cucullata genus:andigena" ; Times: 1
+	Query: "maxwell stateprovince:&#34;Colorado&#34; institutioncode:MMNH" ; Times: 1
+	Query: "class:Aves catalognumber:9348 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:785 institutioncode:MMNH" ; Times: 1
+	Query: "catalognumber:5928 institutioncode:MMNH" ; Times: 1
+	Query: "class:Aves catalognumber:3286 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "specificepithet:flavicans genus:prioniturus" ; Times: 1
+	Query: "class:Aves catalognumber:13379 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:19639 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:192 institutioncode:MMNH" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "Hurley institutioncode:MMNH" ; Times: 2
+	Query: "turdus microrhynchus" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "catalognumber:5058 institutioncode:MMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:Aedon genus:Troglodytes institutioncode:MMNH" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 2
+	Query: "class:Aves catalognumber:35210 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:36072 institutioncode:MMNH" ; Times: 1
+	Query: "Botaurus pinnatus" ; Times: 2
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "specificepithet:aurocapilla genus:Seiurus month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 2
+	Query: "class:Aves catalognumber:33602 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:37100 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:3837 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:10738 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "class:Aves catalognumber:4557 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "solanum" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "MMNH 46438" ; Times: 2
+	Query: "catalognumber:720 institutioncode:MMNH" ; Times: 1
+	Query: "class:Aves catalognumber:10681 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "class:Aves catalognumber:16591 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 1263 download events in this period)
+Total number of records downloaded: 898
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 24
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 33
+	Country: Germany ; Times: 1
+	Country: Belize ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-23 ; Times: 8
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-11 ; Times: 3
+	Date: 2019-04-10 ; Times: 18
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-22 ; Times: 16
+	Date: 2019-04-30 ; Times: 7
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-29 ; Times: 6
+	Date: 2019-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "locality:Presque Isle county:&#34;Erie&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "specificepithet:bengalensis genus:Centropus" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Iowa" ; Times: 1
+	Query: "Parkers Prairie" ; Times: 2
+	Query: "specificepithet:parellina parellina genus:Cyanocompsa year &gt;= 1940 year &lt;= 2018" ; Times: 1
+	Query: "class:aves (Belize)" ; Times: 1
+	Query: "specificepithet:flavicans genus:prioniturus" ; Times: 2
+	Query: "specificepithet:delphinae genus:colibri" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Colorado" ; Times: 1
+	Query: "genus:saxicola hastissue:1" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Wyoming" ; Times: 1
+	Query: "specificepithet:pertinax genus:aratinga" ; Times: 1
+	Query: "specificepithet:fulva genus:hirundo" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:coruscans genus:colibri" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:New Mexico" ; Times: 1
+	Query: "specificepithet:thalassinus genus:colibri" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "specificepithet:mirabilis genus:cyanolyca" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:pitta" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Wisconsin" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+	Query: "specificepithet:sanblasianus genus:cyanocorax" ; Times: 1
+	Query: "specificepithet:leucocephala genus:amazona" ; Times: 1
+	Query: "specificepithet:pyrrhonota genus:hirundo" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Arizona" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Texas" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua" ; Times: 1
+	Query: "specificepithet:merulinus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Kansas" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Oregon" ; Times: 1
+	Query: "amazilia fimbriata" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Minnesota" ; Times: 1
+	Query: "order:Falconiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cucullata genus:andigena" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "specificepithet:calandra genus:melanocorypha" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Montana" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctica genus:Fratercula year &lt;= 1901" ; Times: 1
+	Query: "specificepithet:beecheii genus:cyanocorax" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Massachusetts" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:North Dakota" ; Times: 1
+	Query: "genus:collocalia" ; Times: 1
+	Query: "specificepithet:discurus genus:prioniturus" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "(perisoreus) hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Michigan" ; Times: 1
+
+
+End of report.

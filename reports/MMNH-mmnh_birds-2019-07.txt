@@ -1,0 +1,236 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 175
+Number of records retrieved in searches: 2308
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 126
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 8
+	Country: Philippines ; Times: 1
+	Country: Nepal ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 13
+	Country: Sweden ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Benin ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 3
+	Date: 2019-07-18 ; Times: 10
+	Date: 2019-07-08 ; Times: 20
+	Date: 2019-07-12 ; Times: 17
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-16 ; Times: 15
+	Date: 2019-07-17 ; Times: 10
+	Date: 2019-07-15 ; Times: 23
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-22 ; Times: 6
+	Date: 2019-07-20 ; Times: 9
+	Date: 2019-07-26 ; Times: 8
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-30 ; Times: 3
+	Date: 2019-07-03 ; Times: 5
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 5
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-07 ; Times: 8
+	Date: 2019-07-06 ; Times: 4
+	Date: 2019-07-31 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Campylopterus specificepithet:curvipennis" ; Times: 1
+	Query: "specificepithet:griseus genus:vireo institutioncode:MMNH" ; Times: 3
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "genus:Capsiempis specificepithet:flaveola" ; Times: 1
+	Query: "pterodroma mollis" ; Times: 2
+	Query: "vntype:specimen specificepithet:poensis genus:batis" ; Times: 6
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "specificepithet:obsoletus county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "oceanites oceanicus year &gt;= 1970 year &lt;= 2019 palmer" ; Times: 1
+	Query: "Anthony AND Guadalupe Island" ; Times: 1
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "genus:Anthus specificepithet:trivialis" ; Times: 1
+	Query: "genus:Doryfera specificepithet:ludovicae" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1970 year &lt;= 2019 Antarctica" ; Times: 1
+	Query: "Kellog" ; Times: 1
+	Query: "daption capense year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves recordedby:Glass basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:abeillei family:fringillidae" ; Times: 1
+	Query: "genus:Lampornis specificepithet:clemenciae" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;North Dakota&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 2
+	Query: "Pterodroma brevipes" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "family:alcidae locality:geronimo" ; Times: 2
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;montana&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "family:Alcidae locality:San Geronimo stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:aves locality:san geronimo country:&#34;mexico&#34;" ; Times: 1
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina sex:female year &gt;= 1955" ; Times: 1
+	Query: "specificepithet:obsoletus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:capensis genus:batis country:&#34;south africa&#34;" ; Times: 1
+	Query: "&#34;Branta canadensis maxima&#34; vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Bicolor genus:Tachycineta sex:Female hassex:1 hastissue:1" ; Times: 3
+	Query: "family:alcidae class:aves locality:san geronimo stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "Oceanites oceanicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:batis" ; Times: 4
+	Query: "specificepithet:communis genus:Sylvia year&gt;1980 year&lt;2020" ; Times: 3
+	Query: "vntype:specimen specificepithet:carolinus genus:Melanerpes preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "MMNH Aves (43635 OR 43456 OR 43455 OR 43615 OR 43572 OR 43448 OR 45965 OR 43635 OR 43456 OR 43455 OR 43615)" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 2
+	Query: "specificepithet:ruber genus:Sphyrapicus stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella country:&#34;canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:modularis genus:Prunella country:&#34;Italy&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:leucoptera genus:loxia institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "6 KM VILLA VICTORIA" ; Times: 1
+	Query: "specificepithet:guttatus genus:catharus country:&#34;canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Accipiter specificepithet:cooperi" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "vntype:specimen specificepithet:peltata genus:platysteira country:&#34;tanzania&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:perkeo genus:batis" ; Times: 4
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "specificepithet:iliaca genus:Passerella year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "solanum species" ; Times: 1
+	Query: "specificepithet:nelsoni genus:vireo" ; Times: 2
+	Query: "23148" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella stateprovince:&#34;idaho&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Tachybaptus specificepithet:dominicus" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella country:&#34;canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Lamprolaima specificepithet:rhami" ; Times: 1
+	Query: "Pithecophaga country:&#34;Philippines&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:pririt genus:batis" ; Times: 1
+	Query: "specificepithet:crissale genus:toxostoma stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "bulweria hastissue:1" ; Times: 1
+	Query: "class:Aves locality:San Geronimo stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:griseus genus:vireo stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34;" ; Times: 3
+	Query: "family:fringillidae institutioncode:MMNH hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Minnesota&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "Aythya affinis minnesota" ; Times: 2
+	Query: "vntype:specimen specificepithet:minor erlangeri genus:batis" ; Times: 1
+	Query: "genus:Luscinia specificepithet:luscinia" ; Times: 1
+	Query: "genus:Chloroceryle specificepithet:aenea" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "icterus bullockii veracruz" ; Times: 1
+	Query: "institutioncode:MMNH" ; Times: 1
+	Query: "Prioniturus flavicans" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina sex:female" ; Times: 1
+	Query: "family:Alcidae class:aves locality:san geronimo country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia year&gt;1980 year&lt;=2019" ; Times: 1
+	Query: "hvoslef" ; Times: 6
+	Query: "Cyanoramphus" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "Callewaert" ; Times: 2
+	Query: "&#34;Branta canadensis canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "pterodroma hastissue:1" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "genus:Pagodroma specificepithet:nivea" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:batis country:&#34;mozambique&#34;" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:batis" ; Times: 1
+	Query: "class:Aves recordedby:Girard" ; Times: 2
+	Query: "7247 tyrannus" ; Times: 1
+	Query: "specificepithet:difficilis genus:Empidonax stateprovince:&#34;montana&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Vireo griseus perquisitor" ; Times: 1
+	Query: "specificepithet:borin genus:Sylvia year&gt;1980 year&lt;2020" ; Times: 3
+	Query: "genus:coccothraustes institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "fregetta year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "cistothorus tolucensis" ; Times: 2
+	Query: "Pomarea nigra" ; Times: 1
+	Query: "&#34;Branta canadensis maxima&#34; vntype:specimen specificepithet:canadensis genus:Branta" ; Times: 1
+	Query: "Vini ultramarina" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Wisconsin&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "specificepithet:atrimaxillaris genus:Habia" ; Times: 2
+	Query: "Toxostoma guttatum" ; Times: 1
+	Query: "solanum" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "pachyptila vittata" ; Times: 2
+	Query: "pachyptila salvini" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella country:&#34;canada&#34; year &gt;= 1980" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 985 download events in this period)
+Total number of records downloaded: 1154
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 7
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-12 ; Times: 4
+	Date: 2019-07-31 ; Times: 12
+	Date: 2019-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri NOT asiatica) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:collaris genus:trogon" ; Times: 1
+	Query: "specificepithet:ruber genus:Sphyrapicus stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Porzana carolina" ; Times: 1
+	Query: "specificepithet:difficilis genus:Empidonax stateprovince:&#34;montana&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "locality:Ordway" ; Times: 1
+	Query: "MMNH Aves (43635 OR 43456 OR 43455 OR 43615 OR 43572 OR 43448 OR 45965 OR 43635 OR 43456 OR 43455 OR 43615)" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "Fulmarus glacialis year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Paradoxornis" ; Times: 1
+	Query: "Chen canagica" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "crax rubra" ; Times: 8
+	Query: "upupa epops" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;montana&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella stateprovince:&#34;idaho&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "&#34;Branta canadensis canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta year &gt;= 1000 year &lt;= 1920" ; Times: 1
+
+
+End of report.

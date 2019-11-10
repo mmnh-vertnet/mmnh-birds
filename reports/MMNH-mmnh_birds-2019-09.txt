@@ -1,0 +1,229 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 195
+Number of records retrieved in searches: 3211
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 158
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Norway ; Times: 2
+	Country: Argentina ; Times: 6
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 9
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 4
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-12 ; Times: 5
+	Date: 2019-09-13 ; Times: 5
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-30 ; Times: 5
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-03 ; Times: 9
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 81
+	Date: 2019-09-05 ; Times: 3
+	Date: 2019-09-04 ; Times: 25
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 6
+	Date: 2019-09-23 ; Times: 4
+	Date: 2019-09-22 ; Times: 9
+	Date: 2019-09-25 ; Times: 2
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 8
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "45583" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "perquisitor specificepithet:griseus genus:vireo" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "pterodroma brevipes" ; Times: 4
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "anthus rubescens year &gt;= 1985 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "asio clamator" ; Times: 2
+	Query: "Anthus rubescens year &gt;= 1985 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Calidris canutus" ; Times: 10
+	Query: "specificepithet:griseus genus:vireo institutioncode:MMNH" ; Times: 3
+	Query: "dendroica dugesi" ; Times: 2
+	Query: "murceus genus:melanerpes" ; Times: 7
+	Query: "Eopsaltria flaviventris" ; Times: 2
+	Query: "45335" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "Aptenodytes forsteri" ; Times: 2
+	Query: "cardinalis affinis" ; Times: 3
+	Query: "specificepithet:erythrophthalma genus:Lophura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Saxicola torquata sex:female basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:lamprospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Lamprospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 20
+	Query: "specificepithet:cunicularia genus:athene class:aves hastissue:1" ; Times: 1
+	Query: "specificepithet:pulverulentus genus:Mulleripicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pyrilia pyrilia" ; Times: 2
+	Query: "laterallus ruber vntype:specimen" ; Times: 2
+	Query: "41149" ; Times: 1
+	Query: "(anthus rubescens) year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 24
+	Query: "specificepithet:iliaca genus:passerella country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:griseus genus:vireo stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34;" ; Times: 3
+	Query: "country:&#34;madagascar&#34; institutioncode:MMNH" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 10
+	Query: "specificepithet:iliaca genus:passerella stateprovince:&#34;oregon&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "icterus mesomelas veracruz" ; Times: 1
+	Query: "43648 Catharus" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter preparations:skin year &gt;= 1980 institutioncode:MMNH" ; Times: 1
+	Query: "genus:Aptenodytes sex:Female" ; Times: 1
+	Query: "43180" ; Times: 1
+	Query: "specificepithet:oryzivora family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Myioborus ornatus" ; Times: 1
+	Query: "Picumnus varzeae" ; Times: 1
+	Query: "(anthus rubescens) year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "palumbus Columba" ; Times: 3
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "Los Cabos" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "porzana flaviventer" ; Times: 3
+	Query: "specificepithet:iliaca genus:passerella stateprovince:&#34;idaho&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:caeruleus genus:parus hastissue:1" ; Times: 2
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 14
+	Query: "47798" ; Times: 1
+	Query: "class:aves country:&#34;madagascar&#34; institutioncode:MMNH" ; Times: 1
+	Query: "Dryocopus pileatus skeleton" ; Times: 2
+	Query: "Anthus Rubescens year &gt;= 1985 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Pinguinus" ; Times: 1
+	Query: "xenospiza baileyi" ; Times: 3
+	Query: "elegans Trogon Female" ; Times: 1
+	Query: "specificepithet:hottentottus genus:dicrurus hastissue:1" ; Times: 1
+	Query: "Anthus Rubescens year &gt;= 1950 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "sitta lilacea" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "Coccyzus americanus americanus" ; Times: 18
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1073 download events in this period)
+Total number of records downloaded: 742
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: United States ; Times: 32
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 20
+	Date: 2019-09-11 ; Times: 9
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-09 ; Times: 6
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 4
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucis hirsuta" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Chlorestes notatus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "conirostrum bicolor" ; Times: 1
+	Query: "amazilia versicolor" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Myioborus ornatus" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Chlorostilbon notatus" ; Times: 1
+	Query: "family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "Amazilia chionogaster" ; Times: 2
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "Chlorostilbon aureoventris" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "anas flavirostris" ; Times: 2
+	Query: "Ara macao" ; Times: 2
+	Query: "laterallus ruber vntype:specimen" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "anas georgica" ; Times: 1
+	Query: "Turdus nudigenis" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Amazilia tobaci" ; Times: 1
+	Query: "campylorhynchus hastissue:1" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "porzana flaviventer" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Cyanocorax affinis" ; Times: 1
+	Query: "celebensis" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "canorus" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "campylorhynchus brunneicapillus hastissue:1" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+
+
+End of report.

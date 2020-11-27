@@ -1,0 +1,224 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 138
+Number of records retrieved in searches: 476
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 9
+	Country: France ; Times: 3
+	Country: United States ; Times: 73
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 25
+	Country: Denmark ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 3
+	Date: 2020-03-31 ; Times: 9
+	Date: 2020-03-18 ; Times: 10
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-09 ; Times: 16
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-13 ; Times: 6
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-08 ; Times: 4
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-06 ; Times: 7
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 7
+	Date: 2020-03-25 ; Times: 6
+	Date: 2020-03-24 ; Times: 9
+	Date: 2020-03-23 ; Times: 7
+	Date: 2020-03-22 ; Times: 6
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-05 ; Times: 11
+	Date: 2020-03-04 ; Times: 6
+	Date: 2020-03-07 ; Times: 8
+	Date: 2020-03-11 ; Times: 6
+	Date: 2020-03-03 ; Times: 3
+	Date: 2020-03-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "copsychus malabaricus india" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "13715" ; Times: 1
+	Query: "diomedea melanophrys" ; Times: 2
+	Query: "&#34;Jalcocotán&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Passerina (hybrid)" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (petechia) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:ignipectus genus:dicaeum country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:californica genus:Callipepla stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus country:&#34;United States&#34; AND (NOT Alaska) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "perov russia aves" ; Times: 1
+	Query: "Philortyx lifestage:adult" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "45055" ; Times: 1
+	Query: "genus:Pheucticus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "&#34;dendroica cerulea&#34; vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "47738" ; Times: 1
+	Query: "vntype:specimen genus:Laterallus country:&#34;Mexico&#34;" ; Times: 3
+	Query: "genus:Passerina stateprovince:&#34;Nebraska&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Aves 32113" ; Times: 1
+	Query: "tangara guttata" ; Times: 1
+	Query: "bulweria bulweria year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Los Cabos" ; Times: 4
+	Query: "29600" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 11
+	Query: "Accipiter cooperi" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Passerina stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "(46173)" ; Times: 1
+	Query: "specificepithet:petechia year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo month &gt;= 11 month &lt;= 12" ; Times: 1
+	Query: "genus:Passerina (hybrid)" ; Times: 1
+	Query: "USNM 12759" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:enca country:&#34;philippines&#34;" ; Times: 3
+	Query: "recordedby:Carriker year &gt;= 1914 year &lt;= 1914 month &gt;= 4 month &lt;= 4 startdayofyear &gt;= 110 startdayofyear &lt;= 115" ; Times: 1
+	Query: "melospiza zacapu" ; Times: 1
+	Query: "Philortyx lifestage:immature" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "aurantiirostris Chiapas" ; Times: 2
+	Query: "genus:Passerina stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "(49096) institutioncode:MMNH" ; Times: 3
+	Query: "21297" ; Times: 1
+	Query: "Philortyx lifestage:adult sex:male" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "Amazilia cyanura" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;South Dakota&#34;" ; Times: 2
+	Query: "23124" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Minnesota&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:severus genus:falco country:&#34;philippines&#34;" ; Times: 3
+	Query: "specificepithet:fasciolata genus:locustella country:&#34;philippines&#34;" ; Times: 2
+	Query: "(49083)" ; Times: 1
+	Query: "genus:Pedionomus" ; Times: 1
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (Dendroica petechia) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "Icterus auratus" ; Times: 2
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Pinguinus" ; Times: 1
+	Query: "(18641) institutioncode:MMNH" ; Times: 1
+	Query: "diomedea exulans south georgia" ; Times: 1
+	Query: "vntype:specimen (cerulea) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:lagopus stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(49093)" ; Times: 2
+	Query: "catharus phillipsi" ; Times: 2
+	Query: "38874" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 6
+	Query: "Catharus aurantiirostris Guerrero" ; Times: 1
+	Query: "genus:bolbopsittacus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Alcedo meninting" ; Times: 2
+	Query: "38031" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:Passerina (hybrid) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (Dendroica coronata) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "habia atrimaxillaris" ; Times: 1
+	Query: "(49096)" ; Times: 2
+	Query: "specificepithet:albicaudatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 4
+	Query: "30908 class:aves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 853 download events in this period)
+Total number of records downloaded: 874
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 30
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Guadeloupe ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 11
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 4
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-09 ; Times: 10
+	Date: 2020-03-11 ; Times: 5
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-23 ; Times: 2
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-06 ; Times: 6
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Passerina stateprovince:&#34;South Dakota&#34;" ; Times: 2
+	Query: "Icterus gularis" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pitangus sulphuratus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "house crow" ; Times: 1
+	Query: "elanus leucurus" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "procellariiformes hastissue:1" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "genus:Pheucticus stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Philortyx" ; Times: 2
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 1
+	Query: "genus:Baeolophus stateprovince:&#34;Texas&#34; year &gt;= 1950 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Passerina (hybrid) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "Amazilia viridifrons" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Pheucticus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 1
+	Query: "habia atrimaxillaris" ; Times: 1
+	Query: "colaptes chrysoides" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 3
+	Query: "genus:Passerina stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "specificepithet:jamaicensis genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2005 year &lt;= 2010" ; Times: 1
+	Query: "county:&#34;Amador&#34;" ; Times: 1
+	Query: "specificepithet:albicaudatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tangara guttata" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+	Query: "Amazilia cyanura" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,223 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 143
+Number of records retrieved in searches: 861
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 96
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 15
+	Country: Sweden ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-05 ; Times: 9
+	Date: 2020-02-24 ; Times: 25
+	Date: 2020-02-25 ; Times: 4
+	Date: 2020-02-26 ; Times: 6
+	Date: 2020-02-01 ; Times: 2
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-07 ; Times: 3
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-23 ; Times: 5
+	Date: 2020-02-09 ; Times: 6
+	Date: 2020-02-28 ; Times: 2
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 5
+	Date: 2020-02-10 ; Times: 5
+	Date: 2020-02-13 ; Times: 4
+	Date: 2020-02-12 ; Times: 12
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 3
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 19
+	Date: 2020-02-27 ; Times: 6
+	Date: 2020-02-20 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cyanopectus genus:ceyx locality:cebu country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "specificepithet:melanolophus genus:gorsachius country:&#34;philippines&#34;" ; Times: 1
+	Query: "Cotinga amabilis" ; Times: 2
+	Query: "36877" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "accipiter atricapillus institutioncode:MMNH" ; Times: 1
+	Query: "specificepithet:guttatus genus:catharus stateprovince:&#34;minnesota&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "epimachus fastuosus" ; Times: 1
+	Query: "specificepithet:coronata family:parulidae stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:MMNH" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 11
+	Query: "genus:Sphyrapicus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:MMNH" ; Times: 1
+	Query: "genus:Brachyramphus class:aves year &gt;= 1903 year &lt;= 1905" ; Times: 1
+	Query: "anthus antarcticus" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "specificepithet:guttatus stateprovince:&#34;minnesota&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:pubescens family:picidae stateprovince:&#34;minnesota&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Anas diazi" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 8
+	Query: "pandion haliaetus vntype:specimen year &gt;= 1950 year &lt;= 2020 institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "locality:El Arenal " ; Times: 1
+	Query: "gbifdatasetid:85484744-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "genus:Sphyrapicus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:44399 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "prosopis" ; Times: 1
+	Query: "33720 Aves" ; Times: 1
+	Query: "specificepithet:cyanopectus genus:ceyx country:&#34;philippines&#34;" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:MMNH" ; Times: 1
+	Query: "falco sparvarius" ; Times: 1
+	Query: "specificepithet:pubescens stateprovince:&#34;minnesota&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "45612" ; Times: 1
+	Query: "crecca minnesota" ; Times: 2
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "bluebirds" ; Times: 1
+	Query: "genus:vireo stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:pubescens family:picidae stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:rufescens family:paridae stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:amazona genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "genus:regulus stateprovince:&#34;minnesota&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "Junco bairdi" ; Times: 1
+	Query: "circus hudsonius institutioncode:MMNH" ; Times: 1
+	Query: "pachyptila indian ocean" ; Times: 1
+	Query: "specificepithet:melanospila genus:ptilinopus country:&#34;philippines&#34;" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 5
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "specificepithet:aenea genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Amazilia cyanura" ; Times: 4
+	Query: "family:picidae catalognumber:43696" ; Times: 1
+	Query: "family:picidae catalognumber:43693" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "class:aves catalognumber:755" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 4
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;wisconsin&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:12020" ; Times: 1
+	Query: "specificepithet:sparvarius genus:Falco" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:MMNH" ; Times: 1
+	Query: "dog years" ; Times: 1
+	Query: "vntype:specimen specificepithet:arcticus genus:Picoides hastissue:1" ; Times: 1
+	Query: "50292 class:aves" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "fulmarus greenland" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus stateprovince:&#34;minnesota&#34; year &gt;= 2011 year &lt;= 2011 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Callipepla douglasii" ; Times: 1
+	Query: "Falco sparvarius" ; Times: 1
+	Query: "specificepithet:villosus stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "neochen" ; Times: 2
+	Query: "locality:El huizache country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 3
+	Query: "specificepithet:swainsoni genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "Campylopterus excellens" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 2
+	Query: "genus:sphyrapicus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "specificepithet:coronata family:parulidae stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "catalognumber:42815 institutioncode:MMNH" ; Times: 1
+	Query: "specificepithet:ustulatus stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "73559" ; Times: 1
+	Query: "dendroica kirtlandii vntype:specimen" ; Times: 1
+	Query: "genus:geothlypis stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "specificepithet:megala genus:gallinago country:&#34;philippines&#34;" ; Times: 3
+	Query: "specificepithet:albicaudatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "accipiter gentilis vntype:specimen year &gt;= 1950 year &lt;= 2020 institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:nycticorax genus:Nycticorax year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "specificepithet:guttatus stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1023 download events in this period)
+Total number of records downloaded: 616
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 26
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: El Salvador ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-24 ; Times: 4
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 4
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Cotinga amabilis" ; Times: 3
+	Query: "specificepithet:formicivorus genus:melanerpes stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "pitta sordida" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34; recordedby:Carriker" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:arcticus genus:Picoides hastissue:1" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "wing order:Strigiformes class:Aves hasmass:1" ; Times: 2
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 2
+	Query: "Tyto alba" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "anthus antarcticus" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "county:&#34;San Diego&#34; year &gt;= 1996 year &lt;= 1999" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 1
+
+
+End of report.

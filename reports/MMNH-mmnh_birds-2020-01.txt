@@ -1,0 +1,256 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 205
+Number of records retrieved in searches: 2083
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 175
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 7
+	Country: Peru ; Times: 12
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-03 ; Times: 4
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-04 ; Times: 3
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-20 ; Times: 5
+	Date: 2020-01-09 ; Times: 55
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 10
+	Date: 2020-01-27 ; Times: 4
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-18 ; Times: 33
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-23 ; Times: 13
+	Date: 2020-01-14 ; Times: 14
+	Date: 2020-01-15 ; Times: 8
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-10 ; Times: 16
+	Date: 2020-01-13 ; Times: 3
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "psaltriparus minimus hastissue:1 country:Mexico" ; Times: 1
+	Query: "specificepithet:melanolophus genus:gorsachius country:&#34;philippines&#34;" ; Times: 1
+	Query: "canadensis 1876" ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "Tyto alba minnesota" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "vntype:specimen genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Polioptila albiloris vntype:specimen stateprovince:&#34;Yucatan&#34;" ; Times: 1
+	Query: "Xema minnesota" ; Times: 1
+	Query: "sulcirostris minnesota" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "catalognumber:37870 institutioncode:MMNH" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "Ara militaris" ; Times: 7
+	Query: "tyto minnesota" ; Times: 4
+	Query: "specificepithet:varius class:aves stateprovince:Wisconsin year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "rosea minnesota" ; Times: 1
+	Query: "Buteo regalis minnesota" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:prill basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "pugnax minnesota" ; Times: 1
+	Query: "mexicanus minnesota" ; Times: 1
+	Query: "Ictinia minnesota" ; Times: 1
+	Query: "class:Aves locality:Idyllwild county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:tridactylus genus:Picoides hastissue:1" ; Times: 1
+	Query: "specificepithet:albicollis class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "atricilla minnesota" ; Times: 2
+	Query: "elegans minnesota" ; Times: 1
+	Query: "Calidris mauri minnesota" ; Times: 1
+	Query: "Anthony AND Thryomanes AND Island" ; Times: 1
+	Query: "specificepithet:pectoralis genus:coracina" ; Times: 1
+	Query: "county:&#34;Sherman&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "douglasii minnesota" ; Times: 1
+	Query: "specificepithet:villosus class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "canadensis nebraska aves" ; Times: 1
+	Query: "canutus minnesota" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 5
+	Query: "Fulmarus minnesota" ; Times: 1
+	Query: "melanerpes formicivorus hastissue:1 country:Mexico" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skeleton" ; Times: 4
+	Query: "Oceanites oceanicus antarctica" ; Times: 1
+	Query: "Tyrannus couchii skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "genus:gorsachius country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:solitarius class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "13990" ; Times: 1
+	Query: "catalognumber:42821 institutioncode:MMNH" ; Times: 2
+	Query: "petechia dugesi" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "county:&#34;Lawrence&#34; stateprovince:&#34;Ohio&#34;" ; Times: 5
+	Query: "specificepithet:solitarius genus:vireo class:Aves stateprovince:&#34;minnesota&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "specificepithet:carolinensis class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "specificepithet:cooperii genus:accipiter institutioncode:MMNH" ; Times: 1
+	Query: "specificepithet:olivaceus class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "alle minnesota" ; Times: 1
+	Query: "genus:Zonotrichia year &gt;= 2000 year &lt;= 2019 institutioncode:MMNH" ; Times: 4
+	Query: "specificepithet:solitarius genus:vireo class:Aves year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides year &gt;= 1985 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 1
+	Query: "Myiarchus tyrannulus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "Phalaropus fulicarius minnesota" ; Times: 1
+	Query: "grus americana minnesota" ; Times: 1
+	Query: "Myiarchus cinerascens skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 4
+	Query: "41501" ; Times: 1
+	Query: "specificepithet:satrapa class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; institutioncode:MMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "27833 aves" ; Times: 1
+	Query: "Numenius americanus minnesota" ; Times: 1
+	Query: "antillarum minnesota" ; Times: 1
+	Query: "Setophaga tigrina institutioncode:MMNH" ; Times: 1
+	Query: "Himantopus mexicanus minnesota" ; Times: 1
+	Query: "accipter" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "specificepithet:traillii genus:empidonax class:aves stateprovince:&#34;colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "brant minnesota" ; Times: 1
+	Query: "specificepithet:asio genus:otus institutioncode:MMNH" ; Times: 2
+	Query: "35114" ; Times: 2
+	Query: "ferruginea minnesota" ; Times: 1
+	Query: "specificepithet:ustulatus class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "Phalaropus minnesota" ; Times: 1
+	Query: "canus minnesota" ; Times: 1
+	Query: "Picus mentalis" ; Times: 1
+	Query: "cathartes burrovianus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Eisentraut" ; Times: 1
+	Query: "genus:Caprimulgus country:&#34;philippines&#34;" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "Neochen" ; Times: 1
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "specificepithet:virens class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "specificepithet:coronata class:Aves stateprovince:&#34;Minnesota&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:guttatus class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 8
+	Query: "picoides arcticus hastissue:1" ; Times: 1
+	Query: "antiquus minnesota" ; Times: 1
+	Query: "pomarinus minnesota" ; Times: 1
+	Query: "Botaurus pinnatus" ; Times: 2
+	Query: "Mycteria leucocephala" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "haematopus leucopodus" ; Times: 2
+	Query: "californicus minnesota" ; Times: 2
+	Query: "sterna minnesota" ; Times: 1
+	Query: "longicaudus minnesota" ; Times: 1
+	Query: "british columbia 1883" ; Times: 1
+	Query: "Calidris maritima minnesota" ; Times: 1
+	Query: "specificepithet:bendirei genus:Toxostoma class:Aves stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "34814" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "39597" ; Times: 2
+	Query: "sterna minnesota 1886" ; Times: 2
+	Query: "specificepithet:coronata class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:gabrielson basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "Phalaenoptilus canada" ; Times: 1
+	Query: "class:aves catalognumber:11263" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1584 download events in this period)
+Total number of records downloaded: 2084
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Germany ; Times: 1
+	Country: France ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 3
+	Date: 2020-01-28 ; Times: 14
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 5
+	Date: 2020-01-20 ; Times: 2
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-24 ; Times: 5
+	Date: 2020-01-27 ; Times: 5
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-25 ; Times: 3
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "psaltriparus minimus hastissue:1 country:Mexico" ; Times: 1
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 1995 hastissue:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 2011 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1996 year &lt;= 2002 hastissue:1" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Callewaert" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "melanerpes formicivorus hastissue:1 country:Mexico" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Chiapas&#34; hastissue:1" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "&#34;Charadrius placidus&#34; vntype:specimen" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year =2009 hastissue:1" ; Times: 1
+	Query: "specificepithet:asio genus:otus institutioncode:MMNH" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Oaxaca&#34; hastissue:1" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "Cynanthus sordidus" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "holotype class:aves" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 2001 year &lt;= 2010 hastissue:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Hoesch" ; Times: 1
+	Query: "class:aves county:&#34;cochise&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mycteria leucocephala" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 2
+	Query: "Sturnus" ; Times: 1
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "cathartes burrovianus" ; Times: 2
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1991 year &lt;= 2000 hastissue:1" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Boulton" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Arizona&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "aves hastissue:1 country:mexico" ; Times: 1
+	Query: "class:Aves country:Mexico" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+
+
+End of report.

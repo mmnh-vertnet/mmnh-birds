@@ -1,0 +1,158 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 545
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 82
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United Kingdom ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-27 ; Times: 5
+	Date: 2019-12-26 ; Times: 4
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-22 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 5
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-13 ; Times: 3
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-17 ; Times: 8
+	Date: 2019-12-30 ; Times: 5
+	Date: 2019-12-31 ; Times: 4
+	Date: 2019-12-09 ; Times: 28
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-07 ; Times: 4
+	Date: 2019-12-06 ; Times: 8
+	Date: 2019-12-05 ; Times: 6
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-03 ; Times: 5
+	Date: 2019-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bob Jones" ; Times: 1
+	Query: "specificepithet:guttatus genus:catharus stateprovince:&#34;minnesota&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Buteo platypterus mexico" ; Times: 2
+	Query: "23783" ; Times: 1
+	Query: "specificepithet:satrapa class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:atricapillus stateprovince:&#34;minnesota&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "dendroica auduboni auduboni minnesota" ; Times: 1
+	Query: "specificepithet:alnorum class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Calidris pusilla country:&#34;mexico&#34;" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "26 genus:cistothorus institutioncode:MMNH" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;colorado&#34; month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "specificepithet:georgiana class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:solitarius class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "28549" ; Times: 1
+	Query: "Alcedo meninting" ; Times: 2
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "50129" ; Times: 2
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "vntype:specimen family:Anatidae class:Aves locality:Greenland" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "catalognumber:62 institutioncode:MMNH" ; Times: 1
+	Query: "specificepithet:sinensis genus:centropus country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:pileatus class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "genus:Bulweria hastissue:1" ; Times: 1
+	Query: "specificepithet:arcticus class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "specificepithet:carolinensis class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:villosus stateprovince:&#34;minnesota&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Sterna paradisaea country:&#34;mexico&#34;" ; Times: 3
+	Query: "Barker specificepithet:platensis genus:cistothorus" ; Times: 1
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;wisconsin&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 2
+	Query: "33534" ; Times: 1
+	Query: "cholera" ; Times: 2
+	Query: "Phalaenoptilus minnesota" ; Times: 1
+	Query: "Cathartes aura AND Island NOT Cuba NOT Falkland" ; Times: 2
+	Query: "pagodroma" ; Times: 2
+	Query: "dendroica auduboni minnesota" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 3
+	Query: "vntype:specimen specificepithet:femoralis genus:falco institutioncode:MMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:coromanda genus:halcyon country:&#34;philippines&#34;" ; Times: 1
+	Query: "Vireo nelsoni" ; Times: 1
+	Query: "specificepithet:flaviventris class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Picus mentalis" ; Times: 1
+	Query: "specificepithet:coronata stateprovince:&#34;minnesota&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:sphyrapicus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:albicollis class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:platensis genus:cistothorus institutioncode:MMNH" ; Times: 1
+	Query: "amazona xantholora vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eremophila alpestris strigata 2016" ; Times: 6
+	Query: "Eremophila alpestris strigata 2015" ; Times: 6
+	Query: "24368" ; Times: 1
+	Query: "vntype:specimen specificepithet:xantholora genus:amazona" ; Times: 1
+	Query: "vntype:specimen genus:Conirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "49481" ; Times: 2
+	Query: "specificepithet:lincolnii class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "37484" ; Times: 2
+	Query: "Pipilo fuscus senicula 1894" ; Times: 1
+	Query: "Anser albifrons gambelli" ; Times: 1
+	Query: "Cathartes aura AND Island" ; Times: 1
+	Query: "amazona xantholora" ; Times: 1
+	Query: "Barker specificepithet:platensis genus:cistothorus institutioncode:MMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 596 download events in this period)
+Total number of records downloaded: 95
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-06 ; Times: 6
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-07 ; Times: 3
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "patagona gigas" ; Times: 1
+	Query: "specificepithet:major genus:Parus class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;wisconsin&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:guttatus genus:catharus stateprovince:&#34;minnesota&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Pterodroma hastissue:1" ; Times: 1
+	Query: "order:Procellariiformes country:&#34;Argentina&#34;" ; Times: 1
+	Query: "specificepithet:coronata stateprovince:&#34;minnesota&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "specificepithet:villosus stateprovince:&#34;minnesota&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:Bulweria hastissue:1" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 1
+	Query: "specificepithet:atricapillus stateprovince:&#34;minnesota&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "Timm" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,175 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 754
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United Kingdom ; Times: 20
+	Country: Ireland ; Times: 5
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 10
+	Country: United States ; Times: 26
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: New Zealand ; Times: 2
+	Country: Venezuela ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-20 ; Times: 4
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-01 ; Times: 5
+	Date: 2020-07-03 ; Times: 9
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-04 ; Times: 5
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 4
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 7
+	Date: 2020-07-18 ; Times: 3
+	Date: 2020-07-19 ; Times: 3
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-16 ; Times: 4
+	Date: 2020-07-31 ; Times: 10
+	Date: 2020-07-14 ; Times: 11
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-02 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "Hypsipetes siquijorensis 1892" ; Times: 1
+	Query: "institutioncode:MMNH" ; Times: 1
+	Query: "aves spleen" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "specificepithet:flagrans genus:aethopyga country:&#34;philippines&#34;" ; Times: 2
+	Query: "genus:Tympanuchus recordedby:Labedz" ; Times: 3
+	Query: "specificepithet:alba genus:motacilla country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Laterallus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "specificepithet:gustavi genus:anthus country:&#34;philippines&#34;" ; Times: 2
+	Query: "specificepithet:clarae genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:longirostra genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:pygmaeum genus:dicaeum country:&#34;philippines&#34;" ; Times: 1
+	Query: "Larus vegae united states" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "specificepithet:flavipennis genus:chloropsis country:&#34;philippines&#34;" ; Times: 4
+	Query: "country:&#34;Colombia&#34; Vireo olivaceus" ; Times: 1
+	Query: "specificepithet:ignipectus genus:dicaeum country:&#34;philippines&#34;" ; Times: 2
+	Query: "42543" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "44107" ; Times: 1
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 2
+	Query: "Buteo jamaicensis harlani" ; Times: 3
+	Query: "genus:machetornis" ; Times: 1
+	Query: "specificepithet:hypoleucum genus:dicaeum country:&#34;philippines&#34;" ; Times: 4
+	Query: "31031" ; Times: 1
+	Query: "Corvus cryptoleucus hastissue:1" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 3
+	Query: "limnodromus griseus caurinus" ; Times: 1
+	Query: "vntype:specimen country:&#34;Venezuela&#34; institutioncode:MMNH" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "Hypsipetes siquijorensis" ; Times: 1
+	Query: "Buteo jamaicensis harlani North Dakota" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "specificepithet:naumanni genus:Turdus hastissue:1" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "campephilus principalis" ; Times: 9
+	Query: "siquijorensis 1892" ; Times: 1
+	Query: "23686" ; Times: 2
+	Query: "39186" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Buteo harlani Iowa" ; Times: 3
+	Query: "chionis minor" ; Times: 2
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "genus:dicrurus country:&#34;philippines&#34;" ; Times: 1
+	Query: "locality:shady valley county:&#34;johnson&#34; stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "vntype:specimen country:&#34;Venezuela&#34; recordedby:Dart" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 940 download events in this period)
+Total number of records downloaded: 597
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 6
+	Country: Sweden ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cackling goose" ; Times: 1
+	Query: "vntype:specimen country:&#34;Venezuela&#34; recordedby:Dart" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "vntype:specimen country:&#34;Venezuela&#34; institutioncode:MMNH" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+
+End of report.

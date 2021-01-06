@@ -1,0 +1,204 @@
+Report for Institution Code MMNH, Resource mmnh_birds
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 985
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 76
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 6
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-05 ; Times: 10
+	Date: 2020-12-04 ; Times: 53
+	Date: 2020-12-03 ; Times: 14
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-25 ; Times: 3
+	Date: 2020-12-24 ; Times: 3
+	Date: 2020-12-27 ; Times: 2
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-20 ; Times: 9
+	Date: 2020-12-23 ; Times: 3
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-11 ; Times: 4
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-16 ; Times: 4
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anser fabalis" ; Times: 1
+	Query: "41264" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 1
+	Query: "Ectopistes migratorius vntype:specimen hastissue:1" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "sturnella magna magna institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "catharus minimus hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:dominica genus:Setophaga recordedby:McKay" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Aphrodroma brevirostris" ; Times: 1
+	Query: "Piranga bidentata" ; Times: 2
+	Query: "Hypsipetes amaurotis" ; Times: 1
+	Query: "Serinus canaria" ; Times: 1
+	Query: "Rallus tenuirostris" ; Times: 1
+	Query: "Arremon aurantiirostris" ; Times: 1
+	Query: "Acanthis hornemanni" ; Times: 2
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "empidonax imperturbatus" ; Times: 1
+	Query: "37189" ; Times: 1
+	Query: "Progne chalybea" ; Times: 2
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "Anhinga melanogaster" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 5
+	Query: "Spilornis cheela" ; Times: 1
+	Query: "genus:coturnicops institutioncode:MMNH hastissue:1" ; Times: 2
+	Query: "Dives dives" ; Times: 2
+	Query: "Turdus plumbeus" ; Times: 2
+	Query: "Myioborus miniatus aurantiacus" ; Times: 1
+	Query: "specificepithet:maculatus genus:Pardirallus" ; Times: 1
+	Query: "Campylorhynchus zonatus" ; Times: 1
+	Query: "Tiaris olivacea" ; Times: 1
+	Query: "Carpodacus erythrinus" ; Times: 2
+	Query: "specificepithet:schistisagus genus:Larus continent:North America" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "Buteo polyosoma" ; Times: 1
+	Query: "Phylloscopus fuscatus" ; Times: 2
+	Query: "Marmaronetta angustirostris" ; Times: 2
+	Query: "minnesota Tringa semipalmata" ; Times: 1
+	Query: "42634" ; Times: 1
+	Query: "Dendroica tigrina minnesota" ; Times: 1
+	Query: "43687" ; Times: 1
+	Query: "Buthraupis montana" ; Times: 1
+	Query: "Emberiza fucata" ; Times: 2
+	Query: "genus:coturnicops country:&#34;mexico&#34;" ; Times: 1
+	Query: "Vestiaria coccinea" ; Times: 1
+	Query: "41988" ; Times: 1
+	Query: "genus:coturnicops institutioncode:MMNH" ; Times: 2
+	Query: "Rhea americana" ; Times: 1
+	Query: "Apus pacificus" ; Times: 2
+	Query: "mallards" ; Times: 1
+	Query: "dendroica caerulescens washington" ; Times: 2
+	Query: "Callonetta leucophrys" ; Times: 1
+	Query: "genus:coturnicops hastissue:1" ; Times: 3
+	Query: "Carpodacus roseus" ; Times: 1
+	Query: "Haematopus ater" ; Times: 1
+	Query: "41856" ; Times: 1
+	Query: "sterna vittata" ; Times: 1
+	Query: "specificepithet:americana genus:grus stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "Hypsipetes philippinus" ; Times: 1
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 2
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 1
+	Query: "colaptes auratus x cafer" ; Times: 1
+	Query: "49709" ; Times: 1
+	Query: "genus:bombycilla institutioncode:MMNH" ; Times: 1
+	Query: "Columba rupestris" ; Times: 1
+	Query: "Gorsachius goisagi" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "Piranga erythrocephala" ; Times: 1
+	Query: "35101" ; Times: 1
+	Query: "country:&#34;Belize&#34; institutioncode:MMNH" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 2
+	Query: "Phylloscopus inornatus" ; Times: 2
+	Query: "pernice" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Amazona autumnalis vntype:specimen" ; Times: 2
+	Query: "Tachycineta albilinea" ; Times: 2
+	Query: "genus:coturnicops country:&#34;mexico&#34; institutioncode:MMNH" ; Times: 2
+	Query: "Eupherusa poliocerca" ; Times: 1
+	Query: "Anas formosa" ; Times: 2
+	Query: "sturnella neglecta institutioncode:MMNH hastissue:1" ; Times: 1
+	Query: "Himatione sanguinea" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "specificepithet:fasciolata genus:locustella country:&#34;philippines&#34;" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 2
+	Query: "Sturnella militaris" ; Times: 1
+	Query: "mappable:1 scientificname:Athene cunicularia" ; Times: 2
+	Query: "11296" ; Times: 1
+	Query: "Steatornis caripensis" ; Times: 1
+	Query: "Vireo griseus minnesota" ; Times: 3
+	Query: "Piranga hepatica" ; Times: 1
+	Query: "34899" ; Times: 2
+	Query: "Aegithalos caudatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 705 download events in this period)
+Total number of records downloaded: 3713
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 4
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "mallards" ; Times: 1
+	Query: "family:Trochilidae preparations:wing" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 2
+	Query: "vntype:specimen specificepithet:dominica genus:Setophaga" ; Times: 2
+	Query: "Haematopus ater" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 4
+	Query: "specificepithet:schistisagus genus:Larus continent:North America" ; Times: 1
+	Query: "Haematopus bachmani" ; Times: 1
+	Query: "Ectopistes migratorius vntype:specimen hastissue:1" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "egg genus:Catharus" ; Times: 1
+	Query: "vntype:specimen genus:schiffornis" ; Times: 1
+
+
+End of report.
